@@ -1,0 +1,501 @@
+"customer_id","first_name","last_name","date_of_birth","city","employment_status","monthly_income","credit_score","customer_since","customer_status"
+1,Ana,Dimitrijevic,2003-12-12,Novi Sad,student,81165.67,731,2020-10-30,active
+2,Mina,Dimitrijevic,1991-08-03,Kragujevac,self-employed,234407.73,480,2020-10-24,active
+3,Ana,Stanojevic,2011-02-17,Valjevo,retired,213853.76,308,2019-02-23,active
+4,Ana,Sekulic,2011-10-01,Kragujevac,self-employed,119627.33,605,2020-12-30,active
+5,Stefan,Dimitrijevic,2011-12-29,Novi Sad,retired,200506.50,562,2021-03-17,active
+6,Uros,Sekulic,1992-07-06,Nis,retired,83872.13,596,2020-05-07,active
+7,Eleonora,Stanojevic,1985-04-16,Kragujevac,self-employed,196081.37,337,2022-07-20,active
+8,Eleonora,Stanojevic,1990-04-11,Valjevo,self-employed,207966.45,541,2024-08-27,active
+9,Ana,Rankovic,2007-03-20,Nis,retired,229545.10,823,2023-06-03,active
+10,Mina,Rankovic,1991-12-13,Valjevo,employed,150670.40,323,2021-02-03,active
+11,Mina,Sekulic,1993-01-29,Kragujevac,student,157224.57,704,2022-12-11,active
+12,Uros,Matic,1992-04-07,Novi Sad,self-employed,81410.73,531,2023-04-28,active
+13,Stefan,Sekulic,1991-12-17,Kragujevac,self-employed,50716.34,363,2024-10-25,active
+14,Uros,Matic,1992-10-14,Nis,employed,179969.50,639,2021-02-11,active
+15,Ana,Sekulic,1993-09-14,Valjevo,employed,71492.29,735,2019-03-28,active
+16,Eleonora,Sekulic,1998-07-02,Novi Sad,self-employed,56671.57,390,2019-07-01,active
+17,Uros,Rankovic,2006-09-04,Novi Sad,retired,177864.97,819,2021-07-06,active
+18,Ana,Stanojevic,1998-12-08,Valjevo,employed,96790.28,632,2022-11-22,active
+19,Uros,Dimitrijevic,1985-10-28,Kragujevac,self-employed,230699.29,641,2021-03-21,active
+20,Stefan,Sekulic,1997-12-16,Belgrade,student,180585.38,841,2019-02-06,active
+21,Ana,Sekulic,2011-12-25,Novi Sad,employed,241237.78,821,2019-06-14,active
+22,Ana,Stanojevic,1989-05-05,Valjevo,retired,159547.90,482,2019-11-30,active
+23,Uros,Rankovic,2006-10-20,Novi Sad,student,173871.34,778,2020-07-21,active
+24,Stefan,Sekulic,2009-08-20,Nis,student,225911.80,681,2018-04-28,active
+25,Ana,Matic,2001-02-10,Nis,employed,199146.17,558,2024-01-09,active
+26,Ana,Matic,1999-06-13,Valjevo,retired,79867.07,517,2023-07-01,active
+27,Stefan,Dimitrijevic,1989-01-05,Kragujevac,student,154654.07,582,2020-05-30,active
+28,Ana,Sekulic,1998-12-19,Valjevo,retired,143532.43,545,2019-12-25,active
+29,Stefan,Sekulic,2001-12-12,Novi Sad,student,119544.11,662,2021-04-24,active
+30,Mina,Dimitrijevic,1999-10-12,Novi Sad,self-employed,125576.83,600,2023-02-03,active
+31,Uros,Sekulic,2005-12-11,Valjevo,retired,83397.49,767,2018-12-08,active
+32,Eleonora,Stanojevic,1988-02-12,Novi Sad,self-employed,216819.10,648,2021-06-05,active
+33,Uros,Dimitrijevic,2010-05-02,Nis,self-employed,172358.50,453,2020-08-11,active
+34,Uros,Rankovic,2001-03-11,Nis,student,203548.18,790,2019-03-28,active
+35,Mina,Rankovic,1999-05-30,Kragujevac,self-employed,230476.59,400,2022-01-05,active
+36,Ana,Rankovic,1986-04-01,Valjevo,self-employed,87153.96,461,2021-01-31,active
+37,Stefan,Matic,1988-02-06,Valjevo,student,138831.42,442,2024-05-02,active
+38,Eleonora,Stanojevic,1989-04-25,Novi Sad,student,153404.87,587,2024-04-09,active
+39,Stefan,Rankovic,1988-03-31,Kragujevac,self-employed,103839.88,807,2023-01-08,active
+40,Stefan,Dimitrijevic,1986-08-07,Nis,retired,57552.78,504,2024-08-16,active
+41,Uros,Stanojevic,1994-01-10,Nis,self-employed,242731.09,425,2019-09-02,active
+42,Uros,Dimitrijevic,1996-03-04,Nis,student,109518.44,491,2024-04-08,active
+43,Uros,Rankovic,1986-11-18,Valjevo,retired,222030.79,686,2022-11-02,active
+44,Mina,Dimitrijevic,1987-05-03,Kragujevac,retired,71470.85,454,2021-04-07,active
+45,Ana,Rankovic,2010-10-21,Belgrade,retired,150874.68,357,2022-10-06,active
+46,Mina,Matic,1989-01-29,Novi Sad,employed,192051.50,333,2019-06-24,active
+47,Stefan,Dimitrijevic,1998-08-28,Kragujevac,retired,58849.10,781,2023-01-20,active
+48,Eleonora,Rankovic,2004-04-02,Nis,employed,180259.11,563,2018-06-21,active
+49,Eleonora,Rankovic,2004-05-08,Novi Sad,student,133868.47,714,2019-08-01,active
+50,Ana,Stanojevic,1992-04-08,Nis,student,75482.91,606,2019-07-01,active
+51,Uros,Dimitrijevic,1985-07-31,Novi Sad,retired,74007.31,555,2023-03-16,active
+52,Eleonora,Dimitrijevic,2007-03-20,Kragujevac,employed,74501.11,623,2020-03-15,active
+53,Eleonora,Rankovic,2009-09-29,Kragujevac,self-employed,104010.92,583,2020-03-10,active
+54,Eleonora,Rankovic,2005-10-08,Novi Sad,student,238471.84,657,2021-11-02,active
+55,Ana,Dimitrijevic,2012-05-02,Belgrade,student,108740.88,791,2023-05-05,active
+56,Uros,Dimitrijevic,2000-12-29,Valjevo,student,172033.20,498,2018-10-08,active
+57,Uros,Sekulic,1999-01-11,Nis,self-employed,58736.64,770,2021-08-06,active
+58,Eleonora,Stanojevic,2012-04-11,Belgrade,self-employed,134602.33,606,2023-10-06,active
+59,Eleonora,Sekulic,1998-05-26,Valjevo,self-employed,201307.50,782,2019-01-19,active
+60,Ana,Stanojevic,1986-12-15,Nis,retired,120721.52,315,2023-01-08,active
+61,Ana,Stanojevic,1985-11-09,Belgrade,employed,88918.03,637,2018-01-13,active
+62,Mina,Matic,2002-01-23,Novi Sad,employed,217839.86,580,2019-03-21,active
+63,Stefan,Sekulic,1999-05-10,Nis,retired,247321.41,600,2024-04-05,active
+64,Ana,Stanojevic,2005-06-22,Novi Sad,retired,121509.15,380,2019-01-12,active
+65,Uros,Stanojevic,2010-10-14,Nis,retired,229880.54,738,2019-02-10,active
+66,Stefan,Sekulic,2003-06-08,Nis,self-employed,232781.95,634,2022-11-04,active
+67,Mina,Sekulic,1990-05-19,Nis,student,137538.68,525,2018-04-21,active
+68,Uros,Stanojevic,1990-11-09,Kragujevac,self-employed,171923.19,354,2023-01-22,active
+69,Stefan,Stanojevic,2004-03-12,Kragujevac,student,84726.99,459,2024-03-17,active
+70,Eleonora,Stanojevic,1995-07-01,Novi Sad,retired,66910.60,615,2018-11-20,active
+71,Mina,Sekulic,2008-10-16,Nis,self-employed,218212.30,638,2022-03-30,active
+72,Eleonora,Dimitrijevic,1988-06-24,Novi Sad,self-employed,196392.10,767,2024-08-08,active
+73,Eleonora,Rankovic,2003-03-06,Valjevo,employed,146612.17,829,2019-12-25,active
+74,Eleonora,Matic,1996-09-09,Valjevo,student,70987.41,320,2021-04-17,active
+75,Ana,Stanojevic,1987-11-02,Belgrade,retired,152976.28,687,2020-10-20,active
+76,Eleonora,Matic,1998-07-27,Nis,employed,73532.06,411,2019-05-30,active
+77,Uros,Dimitrijevic,1990-03-08,Novi Sad,retired,221996.93,532,2024-10-14,active
+78,Stefan,Dimitrijevic,1998-03-14,Nis,employed,130008.48,680,2022-08-17,active
+79,Mina,Stanojevic,1992-05-09,Valjevo,retired,87092.36,737,2023-01-13,active
+80,Mina,Matic,1999-02-01,Nis,self-employed,70433.75,746,2020-07-28,active
+81,Stefan,Sekulic,2007-11-17,Belgrade,employed,100974.28,396,2023-10-01,active
+82,Stefan,Stanojevic,2004-08-15,Valjevo,employed,232253.10,641,2019-12-07,active
+83,Stefan,Stanojevic,2007-08-20,Belgrade,retired,109818.79,712,2018-04-20,active
+84,Uros,Sekulic,1995-09-29,Valjevo,self-employed,160138.64,408,2019-11-06,active
+85,Uros,Dimitrijevic,2004-04-04,Nis,retired,156455.46,745,2020-07-31,active
+86,Mina,Rankovic,1993-07-22,Novi Sad,self-employed,70358.33,497,2023-08-01,active
+87,Ana,Sekulic,2006-02-28,Valjevo,retired,223115.93,706,2022-10-16,active
+88,Stefan,Rankovic,2009-05-10,Valjevo,student,50450.57,556,2022-10-21,active
+89,Stefan,Rankovic,1995-12-14,Belgrade,retired,126928.60,832,2024-07-16,active
+90,Ana,Stanojevic,1995-06-15,Belgrade,employed,151680.01,835,2022-02-09,active
+91,Stefan,Matic,1995-11-12,Novi Sad,employed,107984.52,589,2022-09-18,active
+92,Stefan,Sekulic,2005-01-12,Valjevo,self-employed,205559.20,369,2022-01-11,active
+93,Stefan,Rankovic,1996-05-08,Novi Sad,student,174585.27,387,2019-08-03,active
+94,Ana,Stanojevic,1992-12-25,Novi Sad,student,79229.91,786,2023-11-06,active
+95,Eleonora,Dimitrijevic,1987-10-04,Belgrade,student,50666.31,829,2022-12-21,active
+96,Stefan,Rankovic,2002-11-10,Valjevo,self-employed,61592.15,629,2020-04-19,active
+97,Ana,Rankovic,1998-03-19,Nis,employed,59420.71,543,2018-12-25,active
+98,Stefan,Dimitrijevic,1985-06-21,Belgrade,employed,161597.08,514,2020-08-28,active
+99,Eleonora,Dimitrijevic,1987-01-10,Valjevo,student,135292.20,584,2021-10-02,active
+100,Stefan,Dimitrijevic,1991-02-05,Valjevo,retired,67824.46,753,2020-11-25,active
+101,Ana,Rankovic,2003-01-07,Nis,student,94500.69,424,2022-11-14,active
+102,Mina,Matic,1987-11-11,Belgrade,self-employed,238876.52,486,2023-02-10,active
+103,Uros,Dimitrijevic,2009-10-12,Kragujevac,self-employed,50826.17,369,2021-01-17,active
+104,Mina,Stanojevic,2007-08-05,Nis,retired,156687.64,511,2022-04-10,active
+105,Eleonora,Rankovic,1996-07-24,Novi Sad,employed,64398.01,406,2022-01-11,active
+106,Eleonora,Rankovic,1987-03-13,Nis,employed,120806.67,711,2019-01-25,active
+107,Stefan,Rankovic,2004-01-06,Valjevo,self-employed,160343.67,609,2023-11-30,active
+108,Mina,Matic,2008-03-27,Kragujevac,employed,156762.84,302,2018-09-17,active
+109,Uros,Sekulic,1996-10-26,Valjevo,employed,226309.05,420,2022-01-01,active
+110,Stefan,Stanojevic,2009-02-03,Novi Sad,student,187901.15,729,2018-04-26,active
+111,Mina,Dimitrijevic,1991-03-05,Valjevo,retired,198848.45,630,2019-04-13,active
+112,Stefan,Stanojevic,2008-02-21,Nis,self-employed,227978.57,615,2020-04-23,active
+113,Stefan,Sekulic,1996-08-23,Valjevo,employed,155752.21,783,2019-10-24,active
+114,Uros,Stanojevic,2001-11-29,Valjevo,self-employed,191657.86,406,2021-10-16,active
+115,Uros,Matic,2009-10-22,Valjevo,student,212260.40,678,2020-01-23,active
+116,Ana,Sekulic,1986-09-10,Nis,self-employed,243328.59,695,2024-02-26,active
+117,Mina,Sekulic,2006-01-02,Nis,self-employed,209070.06,845,2022-05-31,active
+118,Stefan,Dimitrijevic,1993-12-08,Valjevo,retired,72875.13,593,2021-06-19,active
+119,Mina,Matic,2000-03-16,Valjevo,employed,235534.36,308,2024-09-08,active
+120,Mina,Stanojevic,2000-11-12,Belgrade,employed,222533.94,453,2019-08-31,active
+121,Stefan,Matic,1997-12-15,Kragujevac,employed,89725.86,594,2020-05-30,active
+122,Mina,Sekulic,1996-01-15,Novi Sad,retired,119739.93,526,2018-09-16,active
+123,Ana,Sekulic,1999-10-23,Belgrade,self-employed,247567.27,620,2018-08-07,active
+124,Ana,Matic,1988-03-25,Novi Sad,retired,182884.24,634,2022-02-03,active
+125,Eleonora,Rankovic,1997-11-26,Kragujevac,self-employed,196277.48,314,2019-10-06,active
+126,Stefan,Dimitrijevic,2006-04-03,Kragujevac,employed,212815.49,736,2020-01-05,active
+127,Eleonora,Stanojevic,1998-07-17,Novi Sad,retired,185213.98,464,2021-07-05,active
+128,Mina,Rankovic,1993-07-20,Nis,self-employed,96990.43,340,2020-08-05,active
+129,Mina,Matic,2011-07-10,Belgrade,retired,219707.33,371,2024-04-03,active
+130,Eleonora,Rankovic,1989-04-19,Valjevo,employed,226572.06,634,2020-07-30,active
+131,Mina,Sekulic,1985-12-21,Kragujevac,student,183749.18,581,2024-09-18,active
+132,Uros,Dimitrijevic,1989-10-31,Nis,self-employed,134419.13,803,2018-08-28,active
+133,Eleonora,Sekulic,2010-03-21,Nis,student,150619.09,571,2021-09-11,active
+134,Mina,Sekulic,1987-03-18,Novi Sad,retired,77123.96,582,2018-01-26,active
+135,Eleonora,Rankovic,1988-04-12,Novi Sad,retired,65635.10,752,2024-04-07,active
+136,Stefan,Rankovic,1993-01-31,Nis,retired,157976.51,387,2023-08-16,active
+137,Uros,Sekulic,1992-02-01,Valjevo,employed,224137.32,753,2018-10-03,active
+138,Stefan,Stanojevic,2008-12-26,Kragujevac,employed,116893.45,465,2024-04-24,active
+139,Eleonora,Stanojevic,1994-04-13,Kragujevac,employed,137279.28,545,2024-01-08,active
+140,Eleonora,Dimitrijevic,1987-06-07,Nis,self-employed,155436.05,527,2024-05-10,active
+141,Ana,Matic,2007-10-26,Belgrade,self-employed,213420.32,325,2022-03-11,active
+142,Ana,Stanojevic,2007-06-07,Novi Sad,retired,70848.70,713,2021-12-13,active
+143,Uros,Dimitrijevic,2008-10-25,Valjevo,self-employed,68648.42,612,2021-09-23,active
+144,Stefan,Rankovic,1989-11-25,Valjevo,self-employed,203503.16,769,2022-04-12,active
+145,Eleonora,Matic,1992-12-20,Valjevo,retired,209290.11,642,2019-04-30,active
+146,Mina,Stanojevic,2005-11-09,Belgrade,employed,208360.38,470,2023-10-10,active
+147,Ana,Rankovic,1987-07-27,Kragujevac,self-employed,225678.66,444,2023-10-24,active
+148,Stefan,Stanojevic,1985-06-04,Valjevo,employed,127631.05,626,2023-01-24,active
+149,Mina,Dimitrijevic,1991-10-05,Nis,employed,161658.71,528,2022-02-10,active
+150,Stefan,Matic,2000-12-10,Nis,self-employed,202046.27,730,2022-03-12,active
+151,Stefan,Stanojevic,1985-08-30,Belgrade,student,203138.83,492,2021-03-22,active
+152,Uros,Matic,2011-01-14,Belgrade,employed,173798.88,453,2020-07-14,active
+153,Ana,Rankovic,2006-03-25,Kragujevac,employed,201016.68,615,2024-06-20,active
+154,Ana,Matic,1994-05-14,Novi Sad,student,113669.33,836,2021-03-25,active
+155,Uros,Dimitrijevic,2005-06-26,Novi Sad,employed,227407.11,787,2020-09-28,active
+156,Mina,Stanojevic,1993-02-19,Valjevo,student,168443.03,653,2021-04-25,active
+157,Ana,Sekulic,2003-05-24,Nis,employed,248678.73,667,2019-01-11,active
+158,Mina,Stanojevic,2000-05-16,Belgrade,employed,106924.93,709,2019-08-02,active
+159,Stefan,Rankovic,1988-12-03,Valjevo,student,60658.19,349,2022-11-19,active
+160,Stefan,Stanojevic,1985-10-17,Novi Sad,self-employed,225551.54,459,2021-06-17,active
+161,Stefan,Stanojevic,2004-12-26,Kragujevac,student,127589.64,671,2024-02-22,active
+162,Ana,Rankovic,1991-07-07,Nis,self-employed,114160.73,417,2020-08-17,active
+163,Eleonora,Stanojevic,1998-12-12,Kragujevac,retired,189439.39,651,2022-04-07,active
+164,Ana,Rankovic,1991-08-18,Belgrade,retired,219833.42,762,2021-08-20,active
+165,Uros,Sekulic,1987-09-18,Nis,employed,76254.51,636,2018-07-26,active
+166,Uros,Rankovic,1989-02-14,Valjevo,retired,203102.15,315,2018-08-19,active
+167,Ana,Rankovic,1997-02-20,Nis,self-employed,161491.55,414,2021-02-20,active
+168,Mina,Stanojevic,1987-01-11,Nis,student,232931.77,573,2022-06-18,active
+169,Uros,Stanojevic,2001-07-01,Novi Sad,student,170355.82,335,2023-05-03,active
+170,Uros,Matic,1988-11-28,Belgrade,student,245207.67,436,2021-06-12,active
+171,Eleonora,Matic,1998-12-09,Nis,student,123266.09,620,2018-12-05,active
+172,Stefan,Matic,2009-10-18,Belgrade,student,206903.17,546,2020-07-11,active
+173,Mina,Matic,2003-05-08,Valjevo,self-employed,202240.08,833,2021-03-10,active
+174,Stefan,Stanojevic,2009-03-25,Nis,employed,94314.54,747,2018-08-27,active
+175,Uros,Rankovic,2011-10-20,Novi Sad,employed,85566.12,392,2022-03-31,active
+176,Mina,Stanojevic,2004-08-20,Novi Sad,retired,57282.65,330,2018-06-05,active
+177,Uros,Dimitrijevic,1987-01-07,Novi Sad,self-employed,64453.98,369,2023-01-31,active
+178,Uros,Stanojevic,1994-12-31,Valjevo,self-employed,172110.97,374,2021-11-05,active
+179,Uros,Sekulic,1997-06-26,Kragujevac,student,203364.76,481,2018-07-04,active
+180,Mina,Matic,2003-01-29,Valjevo,employed,160961.29,477,2022-10-31,active
+181,Mina,Dimitrijevic,1998-07-08,Valjevo,self-employed,115360.67,751,2024-04-07,active
+182,Mina,Sekulic,2012-02-06,Valjevo,self-employed,224152.79,608,2018-04-13,active
+183,Uros,Dimitrijevic,2006-03-04,Valjevo,retired,157522.47,604,2022-09-06,active
+184,Uros,Dimitrijevic,1998-03-15,Nis,self-employed,54592.58,450,2020-01-18,active
+185,Mina,Dimitrijevic,1996-10-20,Valjevo,employed,53705.77,696,2020-12-14,active
+186,Mina,Stanojevic,1989-09-23,Belgrade,employed,119262.45,709,2020-12-26,active
+187,Uros,Rankovic,2004-09-03,Kragujevac,employed,232304.18,631,2019-08-21,active
+188,Ana,Sekulic,2008-11-05,Novi Sad,retired,169704.57,703,2018-05-17,active
+189,Mina,Dimitrijevic,2007-11-12,Kragujevac,self-employed,102035.80,583,2023-09-18,active
+190,Mina,Matic,2005-06-02,Nis,student,241598.90,531,2018-05-03,active
+191,Ana,Dimitrijevic,2010-09-12,Belgrade,self-employed,139522.50,838,2020-06-04,active
+192,Eleonora,Rankovic,2006-09-08,Belgrade,self-employed,123804.43,474,2018-01-07,active
+193,Stefan,Dimitrijevic,2011-05-19,Belgrade,self-employed,52253.53,563,2021-07-19,active
+194,Ana,Sekulic,1986-01-01,Novi Sad,self-employed,75426.44,776,2021-01-10,active
+195,Eleonora,Stanojevic,1989-01-27,Belgrade,employed,194262.41,780,2020-09-13,active
+196,Eleonora,Sekulic,2011-01-13,Nis,employed,102254.29,357,2020-06-18,active
+197,Ana,Stanojevic,2003-07-09,Kragujevac,employed,229972.64,498,2018-04-22,active
+198,Eleonora,Rankovic,1998-03-14,Nis,retired,124276.42,816,2021-03-13,active
+199,Mina,Sekulic,1985-08-25,Valjevo,self-employed,149808.59,671,2018-03-31,active
+200,Eleonora,Rankovic,2002-01-25,Nis,self-employed,129137.55,702,2019-09-05,active
+201,Eleonora,Sekulic,1985-12-26,Novi Sad,student,227454.94,784,2022-10-29,active
+202,Uros,Dimitrijevic,2007-10-10,Valjevo,student,84086.64,718,2018-10-24,active
+203,Ana,Matic,2001-08-07,Valjevo,student,52649.41,503,2021-01-02,active
+204,Eleonora,Sekulic,2001-12-26,Kragujevac,retired,235664.02,310,2024-09-27,active
+205,Eleonora,Rankovic,1990-09-07,Novi Sad,student,177509.39,549,2020-08-29,active
+206,Ana,Dimitrijevic,2005-10-19,Novi Sad,retired,238787.90,612,2022-09-16,active
+207,Stefan,Matic,2001-10-17,Kragujevac,employed,73395.49,449,2019-04-22,active
+208,Eleonora,Matic,1994-01-14,Kragujevac,employed,236403.08,702,2023-06-19,active
+209,Uros,Matic,2001-03-13,Belgrade,student,237104.12,487,2022-11-22,active
+210,Eleonora,Rankovic,2004-03-18,Valjevo,self-employed,67730.63,381,2023-12-02,active
+211,Eleonora,Stanojevic,1991-02-15,Novi Sad,retired,179310.41,649,2023-10-26,active
+212,Ana,Sekulic,1992-01-26,Kragujevac,student,154180.15,639,2020-08-15,active
+213,Eleonora,Stanojevic,2009-09-18,Valjevo,retired,248398.93,348,2020-04-01,active
+214,Eleonora,Sekulic,1997-05-12,Nis,student,147198.41,759,2019-09-16,active
+215,Uros,Stanojevic,1996-01-09,Valjevo,employed,60407.43,635,2021-10-23,active
+216,Eleonora,Dimitrijevic,2009-02-15,Kragujevac,retired,209748.00,604,2022-11-23,active
+217,Stefan,Rankovic,2008-10-27,Valjevo,self-employed,149963.14,583,2022-05-03,active
+218,Mina,Matic,1996-12-18,Kragujevac,employed,184915.72,841,2021-03-12,active
+219,Ana,Matic,1990-08-23,Belgrade,employed,60509.01,451,2023-11-03,active
+220,Ana,Matic,1985-12-30,Nis,retired,218179.00,332,2018-06-05,active
+221,Mina,Matic,2002-05-12,Novi Sad,self-employed,113623.85,544,2019-11-08,active
+222,Stefan,Stanojevic,2001-01-23,Nis,retired,203388.54,647,2022-03-18,active
+223,Stefan,Dimitrijevic,1995-04-08,Nis,self-employed,154920.41,682,2018-06-24,active
+224,Stefan,Dimitrijevic,2004-10-10,Kragujevac,self-employed,76949.94,423,2023-05-17,active
+225,Eleonora,Rankovic,1995-12-31,Belgrade,self-employed,237659.48,530,2021-02-06,active
+226,Stefan,Stanojevic,2002-07-27,Novi Sad,self-employed,135428.46,726,2021-04-09,active
+227,Ana,Matic,2003-01-08,Novi Sad,employed,148270.79,715,2024-01-14,active
+228,Eleonora,Matic,1999-10-02,Kragujevac,self-employed,70061.03,826,2018-03-05,active
+229,Uros,Rankovic,2007-05-02,Belgrade,self-employed,235211.74,580,2022-08-12,active
+230,Ana,Sekulic,1985-10-11,Valjevo,student,198674.81,564,2018-01-20,active
+231,Uros,Stanojevic,2000-06-17,Belgrade,self-employed,59491.55,807,2023-07-18,active
+232,Stefan,Stanojevic,1987-05-21,Novi Sad,self-employed,151959.20,753,2023-01-03,active
+233,Uros,Sekulic,1985-03-02,Valjevo,student,239060.40,848,2019-10-21,active
+234,Stefan,Stanojevic,2003-08-19,Novi Sad,self-employed,71493.50,413,2021-07-11,active
+235,Ana,Dimitrijevic,1991-05-14,Valjevo,employed,51262.45,493,2018-01-18,active
+236,Stefan,Stanojevic,1991-10-05,Belgrade,retired,239989.34,449,2022-12-02,active
+237,Stefan,Matic,1992-07-17,Nis,employed,93684.62,805,2018-05-19,active
+238,Eleonora,Matic,1994-02-12,Belgrade,student,71764.91,803,2018-12-30,active
+239,Stefan,Rankovic,1995-02-20,Belgrade,retired,95928.14,426,2021-06-15,active
+240,Stefan,Dimitrijevic,2004-01-17,Nis,student,237410.53,548,2022-10-16,active
+241,Ana,Sekulic,2000-05-03,Nis,self-employed,132916.49,839,2018-07-29,active
+242,Eleonora,Matic,1988-04-27,Nis,student,152967.21,603,2022-08-16,active
+243,Eleonora,Rankovic,2000-08-31,Novi Sad,self-employed,232866.18,576,2022-01-10,active
+244,Eleonora,Stanojevic,1998-05-10,Valjevo,student,116710.46,612,2021-06-06,active
+245,Mina,Rankovic,1992-05-01,Novi Sad,retired,223910.53,585,2020-05-22,active
+246,Stefan,Rankovic,2000-11-24,Novi Sad,self-employed,150588.03,515,2021-05-19,active
+247,Eleonora,Rankovic,2003-10-28,Valjevo,employed,227842.35,303,2021-01-23,active
+248,Mina,Sekulic,1985-02-04,Novi Sad,retired,128217.64,765,2024-02-09,active
+249,Eleonora,Matic,1994-08-30,Novi Sad,employed,112571.31,578,2022-04-19,active
+250,Stefan,Rankovic,2007-02-23,Nis,self-employed,144959.12,424,2024-09-22,active
+251,Eleonora,Matic,2003-10-15,Kragujevac,self-employed,74125.61,395,2020-04-08,active
+252,Eleonora,Matic,1996-01-02,Valjevo,student,203079.45,446,2024-08-24,active
+253,Mina,Sekulic,2005-04-20,Nis,self-employed,151517.46,812,2020-02-20,active
+254,Eleonora,Rankovic,1989-07-25,Valjevo,self-employed,221624.94,450,2021-11-02,active
+255,Stefan,Rankovic,1998-07-15,Novi Sad,employed,202835.72,548,2023-05-19,active
+256,Eleonora,Matic,1990-01-19,Nis,retired,74831.81,836,2023-09-09,active
+257,Ana,Rankovic,2003-04-06,Nis,student,235907.39,571,2019-08-18,active
+258,Uros,Sekulic,2009-12-27,Nis,student,168368.57,611,2024-07-22,active
+259,Eleonora,Sekulic,2005-07-03,Belgrade,self-employed,94986.79,313,2018-10-21,active
+260,Uros,Matic,2003-09-12,Nis,employed,120414.60,643,2023-05-17,active
+261,Ana,Matic,2001-04-20,Valjevo,retired,61192.30,469,2019-05-20,active
+262,Ana,Sekulic,1988-04-16,Nis,self-employed,217666.50,692,2022-06-06,active
+263,Mina,Dimitrijevic,1987-02-24,Kragujevac,self-employed,215163.76,434,2023-11-18,active
+264,Eleonora,Sekulic,2002-04-13,Valjevo,retired,71435.54,732,2019-03-29,active
+265,Eleonora,Sekulic,2006-01-11,Nis,retired,135367.49,426,2022-07-18,active
+266,Stefan,Dimitrijevic,2010-06-16,Nis,retired,243201.37,705,2018-05-09,active
+267,Stefan,Rankovic,1998-11-21,Valjevo,employed,142245.39,463,2024-07-24,active
+268,Stefan,Sekulic,1987-07-26,Nis,employed,208423.82,802,2020-08-10,active
+269,Stefan,Sekulic,1998-05-22,Belgrade,self-employed,214808.38,527,2020-10-01,active
+270,Mina,Sekulic,1999-01-09,Novi Sad,self-employed,161153.74,355,2023-03-25,active
+271,Stefan,Stanojevic,1997-11-10,Belgrade,employed,114013.77,850,2018-12-16,active
+272,Stefan,Stanojevic,1997-05-16,Valjevo,student,121698.94,847,2019-09-14,active
+273,Stefan,Stanojevic,2008-04-02,Belgrade,retired,162620.69,767,2019-12-23,active
+274,Mina,Stanojevic,1991-01-31,Kragujevac,student,227690.88,378,2022-09-12,active
+275,Mina,Stanojevic,2009-02-07,Nis,student,223489.90,529,2018-03-02,active
+276,Mina,Matic,2008-06-14,Nis,retired,212055.94,648,2018-04-09,active
+277,Stefan,Stanojevic,1985-07-13,Kragujevac,retired,132701.26,687,2023-10-04,active
+278,Mina,Stanojevic,1997-11-06,Belgrade,retired,188958.06,476,2020-05-22,active
+279,Eleonora,Matic,1994-06-28,Nis,student,53281.45,445,2023-08-05,active
+280,Eleonora,Matic,2006-05-03,Belgrade,retired,95436.07,838,2022-07-19,active
+281,Stefan,Rankovic,1992-10-23,Belgrade,self-employed,177713.61,846,2024-02-03,active
+282,Stefan,Stanojevic,2007-06-08,Belgrade,student,152480.22,660,2022-07-09,active
+283,Eleonora,Sekulic,1993-06-27,Nis,employed,121355.51,383,2018-09-22,active
+284,Uros,Sekulic,2006-02-18,Kragujevac,self-employed,98926.19,560,2022-11-05,active
+285,Stefan,Matic,1993-04-21,Novi Sad,retired,180681.70,490,2022-07-08,active
+286,Uros,Matic,1998-08-30,Novi Sad,employed,178908.51,820,2022-05-11,active
+287,Eleonora,Dimitrijevic,2003-02-18,Belgrade,self-employed,146391.76,696,2022-01-31,active
+288,Mina,Stanojevic,1999-08-03,Valjevo,student,164439.11,718,2022-08-27,active
+289,Ana,Stanojevic,2004-10-21,Valjevo,student,190561.82,787,2022-01-25,active
+290,Stefan,Dimitrijevic,1996-02-15,Nis,self-employed,79778.52,676,2023-05-28,active
+291,Mina,Matic,1990-02-01,Kragujevac,employed,52781.49,338,2019-07-03,active
+292,Stefan,Matic,2006-10-08,Kragujevac,retired,72833.98,592,2023-07-19,active
+293,Uros,Stanojevic,1997-06-23,Novi Sad,self-employed,233807.74,641,2020-12-24,active
+294,Uros,Stanojevic,2009-09-17,Belgrade,student,54257.51,555,2022-12-21,active
+295,Ana,Sekulic,2004-06-29,Kragujevac,self-employed,170433.52,673,2021-03-11,active
+296,Eleonora,Rankovic,1986-04-16,Kragujevac,student,144752.19,430,2019-08-22,active
+297,Ana,Matic,2007-09-29,Novi Sad,retired,139509.55,388,2024-05-07,active
+298,Mina,Dimitrijevic,2007-07-06,Belgrade,retired,215953.69,595,2020-12-12,active
+299,Ana,Sekulic,1991-01-24,Kragujevac,self-employed,110446.21,321,2019-08-04,active
+300,Uros,Matic,2002-06-02,Nis,employed,151015.41,581,2023-08-12,active
+301,Stefan,Matic,2005-05-16,Nis,self-employed,114530.90,605,2021-09-26,active
+302,Ana,Dimitrijevic,1988-02-17,Novi Sad,student,211168.76,582,2022-09-28,active
+303,Ana,Sekulic,2009-02-26,Valjevo,employed,106314.13,850,2018-02-05,active
+304,Uros,Dimitrijevic,1987-08-30,Nis,employed,51877.47,445,2023-04-14,active
+305,Eleonora,Rankovic,1988-06-03,Belgrade,retired,58749.34,412,2018-06-25,active
+306,Ana,Stanojevic,2003-08-03,Kragujevac,retired,194433.92,416,2021-08-21,active
+307,Eleonora,Dimitrijevic,2007-12-26,Kragujevac,retired,142697.07,827,2021-10-04,active
+308,Stefan,Matic,2003-12-05,Novi Sad,self-employed,208928.56,349,2020-04-16,active
+309,Eleonora,Matic,1998-06-09,Nis,retired,119278.51,594,2018-08-20,active
+310,Stefan,Matic,1986-09-17,Kragujevac,student,209886.38,759,2019-06-10,active
+311,Mina,Stanojevic,1992-08-30,Belgrade,employed,233356.16,563,2023-08-26,active
+312,Eleonora,Sekulic,2009-12-05,Kragujevac,retired,198386.13,412,2024-02-18,active
+313,Uros,Rankovic,1993-07-06,Valjevo,self-employed,118049.60,372,2019-10-13,active
+314,Mina,Matic,2008-01-05,Novi Sad,self-employed,98000.08,535,2019-12-03,active
+315,Ana,Matic,1991-10-09,Valjevo,self-employed,162965.34,699,2024-01-14,active
+316,Ana,Dimitrijevic,2009-01-19,Novi Sad,student,67788.62,715,2018-01-24,active
+317,Stefan,Stanojevic,2001-01-18,Nis,student,246699.16,672,2018-12-14,active
+318,Mina,Rankovic,2008-07-09,Belgrade,self-employed,74127.33,338,2019-11-13,active
+319,Mina,Stanojevic,2011-11-26,Novi Sad,self-employed,138023.39,566,2021-04-05,active
+320,Uros,Matic,1993-03-30,Nis,employed,134783.89,804,2020-01-05,active
+321,Mina,Rankovic,2010-12-19,Kragujevac,student,170914.70,664,2024-08-18,active
+322,Stefan,Rankovic,1990-09-06,Valjevo,employed,115455.69,843,2022-05-12,active
+323,Uros,Sekulic,1985-03-14,Novi Sad,employed,116537.47,636,2020-05-23,active
+324,Ana,Sekulic,2010-02-11,Kragujevac,self-employed,103822.58,670,2019-09-03,active
+325,Ana,Sekulic,2002-04-07,Valjevo,retired,234717.15,451,2023-02-10,active
+326,Ana,Dimitrijevic,2009-03-01,Belgrade,retired,223906.76,490,2018-08-25,active
+327,Uros,Stanojevic,1997-01-14,Kragujevac,student,192114.44,422,2018-02-27,active
+328,Stefan,Sekulic,2011-12-08,Valjevo,retired,151071.07,330,2018-02-04,active
+329,Stefan,Matic,2005-03-25,Nis,employed,236595.95,800,2024-01-24,active
+330,Eleonora,Sekulic,2007-05-08,Belgrade,retired,130424.61,379,2022-06-04,active
+331,Stefan,Rankovic,2010-02-06,Belgrade,self-employed,52473.25,301,2022-06-20,active
+332,Stefan,Stanojevic,1989-06-16,Kragujevac,retired,127073.78,802,2021-09-13,active
+333,Uros,Sekulic,1992-07-25,Valjevo,self-employed,117629.69,634,2020-04-25,active
+334,Uros,Rankovic,1992-12-05,Nis,self-employed,226749.35,445,2018-02-15,active
+335,Mina,Matic,1994-11-02,Novi Sad,self-employed,246832.26,705,2019-04-18,active
+336,Mina,Dimitrijevic,2010-07-03,Valjevo,student,125652.99,660,2023-12-22,active
+337,Eleonora,Rankovic,1994-02-21,Kragujevac,retired,128071.30,846,2020-01-14,active
+338,Stefan,Stanojevic,2003-07-16,Kragujevac,student,191634.39,389,2019-03-12,active
+339,Ana,Sekulic,1987-09-14,Kragujevac,retired,85572.72,387,2021-03-05,active
+340,Eleonora,Sekulic,2011-09-12,Kragujevac,retired,197761.43,774,2023-08-20,active
+341,Ana,Stanojevic,2009-06-05,Novi Sad,employed,143583.53,579,2019-01-01,active
+342,Ana,Rankovic,1998-08-20,Belgrade,self-employed,229468.37,625,2021-03-11,active
+343,Ana,Matic,1986-05-13,Novi Sad,self-employed,54945.13,638,2018-01-21,active
+344,Stefan,Stanojevic,1990-08-30,Novi Sad,self-employed,75792.52,484,2024-11-03,active
+345,Stefan,Sekulic,1985-10-22,Novi Sad,retired,76718.76,701,2019-10-08,active
+346,Ana,Sekulic,1998-06-30,Kragujevac,self-employed,123399.87,392,2019-05-10,active
+347,Uros,Rankovic,1991-10-24,Belgrade,student,91976.53,757,2023-12-21,active
+348,Uros,Matic,1988-06-30,Novi Sad,self-employed,197700.75,850,2023-10-19,active
+349,Uros,Rankovic,2004-01-10,Novi Sad,self-employed,159570.43,612,2022-03-16,active
+350,Eleonora,Stanojevic,1991-08-19,Valjevo,self-employed,51968.96,483,2021-06-30,active
+351,Uros,Matic,1999-07-31,Kragujevac,student,84887.10,383,2018-08-11,active
+352,Eleonora,Stanojevic,2002-01-24,Nis,student,198259.17,408,2021-01-06,active
+353,Mina,Dimitrijevic,2007-12-28,Valjevo,employed,187871.15,508,2024-05-18,active
+354,Eleonora,Matic,2000-04-08,Kragujevac,student,149341.29,504,2022-07-02,active
+355,Stefan,Sekulic,1994-12-12,Nis,self-employed,223356.90,837,2018-03-11,active
+356,Stefan,Sekulic,2000-06-01,Nis,retired,247027.87,802,2018-09-14,active
+357,Ana,Rankovic,1985-02-04,Nis,retired,221206.70,363,2021-10-21,active
+358,Ana,Stanojevic,1998-03-08,Novi Sad,student,109323.45,538,2020-06-21,active
+359,Uros,Sekulic,1993-12-30,Kragujevac,employed,214628.98,587,2019-10-20,active
+360,Ana,Dimitrijevic,1988-12-24,Kragujevac,retired,180493.15,846,2023-02-09,active
+361,Stefan,Dimitrijevic,2006-10-11,Nis,employed,93238.73,346,2020-02-14,active
+362,Eleonora,Sekulic,1985-12-18,Nis,self-employed,141479.30,715,2024-05-05,active
+363,Eleonora,Stanojevic,1986-02-11,Kragujevac,retired,136666.24,554,2019-02-21,active
+364,Uros,Rankovic,2003-02-26,Novi Sad,self-employed,93293.56,353,2020-11-13,active
+365,Mina,Rankovic,1988-01-15,Novi Sad,self-employed,156729.81,847,2020-05-25,active
+366,Uros,Sekulic,2010-11-13,Valjevo,retired,89437.81,355,2019-02-20,active
+367,Stefan,Stanojevic,2001-01-24,Novi Sad,student,103802.53,626,2022-08-19,active
+368,Ana,Rankovic,2006-11-15,Kragujevac,self-employed,232810.02,316,2018-05-31,active
+369,Ana,Rankovic,1990-08-30,Nis,employed,209485.49,350,2022-05-11,active
+370,Ana,Matic,2007-02-18,Belgrade,self-employed,83684.09,760,2024-03-16,active
+371,Uros,Rankovic,1994-12-14,Nis,student,203568.18,627,2022-04-02,active
+372,Mina,Dimitrijevic,1988-10-18,Novi Sad,retired,217462.55,364,2021-05-07,active
+373,Stefan,Stanojevic,2002-12-06,Kragujevac,retired,241341.12,322,2023-06-15,active
+374,Mina,Dimitrijevic,1990-06-19,Nis,student,176811.27,615,2018-09-04,active
+375,Stefan,Dimitrijevic,2005-06-26,Kragujevac,retired,192476.38,679,2018-01-26,active
+376,Eleonora,Matic,1993-05-05,Kragujevac,student,231425.22,364,2019-01-11,active
+377,Uros,Matic,2000-03-24,Novi Sad,employed,146523.49,500,2020-06-01,active
+378,Mina,Stanojevic,1995-12-22,Valjevo,student,59279.98,331,2023-07-16,active
+379,Mina,Dimitrijevic,2005-08-02,Nis,self-employed,107220.65,693,2019-07-09,active
+380,Uros,Sekulic,1998-07-13,Nis,self-employed,147084.07,703,2018-03-11,active
+381,Eleonora,Sekulic,1997-11-03,Nis,student,202414.75,391,2020-03-25,active
+382,Mina,Matic,1988-12-22,Nis,student,85468.59,397,2018-03-21,active
+383,Eleonora,Rankovic,2005-01-18,Belgrade,self-employed,136232.50,364,2019-06-20,active
+384,Ana,Rankovic,1997-11-02,Novi Sad,student,204075.75,610,2024-07-03,active
+385,Stefan,Sekulic,2004-08-17,Novi Sad,retired,240122.91,403,2023-02-15,active
+386,Uros,Stanojevic,2007-06-25,Novi Sad,student,244841.13,468,2022-01-30,active
+387,Eleonora,Rankovic,2005-04-27,Kragujevac,student,237681.32,531,2023-08-02,active
+388,Ana,Matic,1988-09-28,Novi Sad,retired,196140.29,610,2024-10-19,active
+389,Stefan,Stanojevic,1989-08-28,Belgrade,self-employed,96119.42,449,2023-07-02,active
+390,Uros,Sekulic,2000-11-18,Valjevo,retired,85508.92,634,2023-12-11,active
+391,Eleonora,Dimitrijevic,2000-02-01,Novi Sad,employed,74650.09,733,2020-04-20,active
+392,Ana,Matic,1989-11-05,Kragujevac,student,174460.16,409,2021-09-06,active
+393,Mina,Matic,2004-08-25,Belgrade,student,86412.83,553,2022-12-20,active
+394,Uros,Sekulic,2005-05-16,Novi Sad,retired,56048.29,509,2024-02-04,active
+395,Mina,Dimitrijevic,1987-01-27,Kragujevac,student,201229.30,357,2021-06-26,active
+396,Eleonora,Sekulic,1998-01-24,Valjevo,student,211161.75,741,2023-11-26,active
+397,Stefan,Sekulic,2001-02-25,Kragujevac,retired,146602.45,372,2023-11-01,active
+398,Ana,Rankovic,1993-06-30,Kragujevac,employed,166357.73,509,2020-11-16,active
+399,Mina,Rankovic,1987-12-05,Belgrade,self-employed,77366.68,418,2022-08-02,active
+400,Stefan,Stanojevic,1993-10-30,Valjevo,employed,172873.48,763,2024-03-06,active
+401,Uros,Matic,2007-08-31,Novi Sad,student,131741.60,327,2024-10-26,active
+402,Stefan,Rankovic,2005-01-25,Valjevo,student,96454.08,663,2019-10-17,active
+403,Mina,Matic,1992-04-24,Nis,retired,208853.22,374,2022-11-20,active
+404,Uros,Dimitrijevic,2004-03-27,Novi Sad,employed,174084.21,831,2021-02-18,active
+405,Uros,Sekulic,1999-06-25,Belgrade,student,192187.25,353,2019-01-18,active
+406,Stefan,Matic,1994-04-29,Belgrade,retired,96696.60,680,2023-09-22,active
+407,Eleonora,Sekulic,2009-09-25,Valjevo,self-employed,60426.98,622,2023-06-29,active
+408,Uros,Sekulic,1990-10-01,Belgrade,employed,100174.18,687,2023-06-15,active
+409,Stefan,Rankovic,2002-10-10,Novi Sad,employed,96433.38,441,2023-04-12,active
+410,Eleonora,Stanojevic,1996-08-28,Belgrade,retired,117644.14,804,2022-12-04,active
+411,Uros,Dimitrijevic,1998-06-13,Kragujevac,employed,228479.72,845,2024-06-21,active
+412,Mina,Dimitrijevic,1990-08-06,Valjevo,self-employed,80249.76,432,2022-02-20,active
+413,Stefan,Dimitrijevic,2001-04-13,Kragujevac,employed,54422.15,741,2022-07-12,active
+414,Uros,Dimitrijevic,1998-07-19,Belgrade,self-employed,143295.08,778,2022-04-07,active
+415,Stefan,Stanojevic,2003-12-27,Kragujevac,employed,72821.90,393,2020-10-14,active
+416,Eleonora,Sekulic,2007-01-04,Belgrade,student,188949.47,472,2022-03-06,active
+417,Eleonora,Matic,1995-08-16,Nis,employed,54045.08,668,2020-08-11,active
+418,Mina,Matic,1997-02-08,Belgrade,retired,236990.37,578,2019-08-22,active
+419,Ana,Stanojevic,1992-04-16,Novi Sad,retired,200440.05,661,2019-07-17,active
+420,Ana,Dimitrijevic,1997-08-17,Nis,retired,212383.59,841,2021-07-02,active
+421,Stefan,Matic,1998-09-30,Kragujevac,employed,182651.16,676,2023-06-12,active
+422,Mina,Dimitrijevic,1988-06-19,Belgrade,retired,236841.23,646,2021-07-20,active
+423,Stefan,Rankovic,1987-12-18,Kragujevac,student,154175.42,541,2018-07-05,active
+424,Uros,Stanojevic,1998-09-23,Kragujevac,self-employed,240858.73,668,2021-02-26,active
+425,Ana,Rankovic,1997-03-16,Belgrade,employed,108988.22,820,2020-04-14,active
+426,Eleonora,Sekulic,1992-05-04,Novi Sad,self-employed,108444.17,494,2024-02-21,active
+427,Ana,Matic,1998-01-24,Nis,retired,83482.11,850,2024-04-12,active
+428,Eleonora,Stanojevic,1991-10-18,Valjevo,student,62433.41,632,2023-04-11,active
+429,Stefan,Matic,2011-04-15,Nis,retired,184184.41,300,2020-10-15,active
+430,Ana,Matic,2001-05-30,Belgrade,self-employed,73776.09,334,2019-12-23,active
+431,Eleonora,Stanojevic,1986-09-10,Nis,employed,101571.28,442,2023-02-21,active
+432,Uros,Stanojevic,2004-06-19,Kragujevac,self-employed,163445.53,665,2018-07-13,active
+433,Ana,Matic,1999-04-25,Nis,student,52302.11,815,2018-09-14,active
+434,Eleonora,Dimitrijevic,1986-03-10,Nis,employed,207379.80,648,2020-02-03,active
+435,Mina,Dimitrijevic,2005-08-12,Kragujevac,employed,160667.50,522,2021-06-20,active
+436,Ana,Sekulic,1992-01-03,Novi Sad,employed,85629.82,783,2023-02-19,active
+437,Stefan,Dimitrijevic,2005-07-13,Valjevo,student,121876.50,529,2024-09-06,active
+438,Ana,Matic,1996-09-11,Nis,self-employed,204456.49,620,2024-09-12,active
+439,Stefan,Rankovic,1995-12-04,Kragujevac,retired,133070.87,651,2021-07-18,active
+440,Uros,Sekulic,2007-12-27,Belgrade,student,212981.70,809,2019-10-25,active
+441,Ana,Rankovic,2005-09-04,Nis,employed,142021.02,445,2018-09-06,active
+442,Uros,Dimitrijevic,1986-04-24,Belgrade,self-employed,67414.95,712,2020-09-18,active
+443,Stefan,Rankovic,2010-09-07,Valjevo,employed,195075.86,317,2020-05-21,active
+444,Stefan,Matic,1994-07-05,Belgrade,employed,237375.38,588,2018-08-11,active
+445,Uros,Stanojevic,2010-05-05,Belgrade,self-employed,176463.90,453,2024-08-13,active
+446,Stefan,Stanojevic,2008-06-23,Novi Sad,employed,226171.26,703,2018-08-06,active
+447,Mina,Dimitrijevic,2007-11-22,Valjevo,student,57303.95,553,2020-03-14,active
+448,Ana,Matic,2005-08-26,Nis,self-employed,118659.86,693,2020-04-14,active
+449,Ana,Rankovic,1992-02-15,Nis,retired,191921.57,806,2022-02-02,active
+450,Uros,Sekulic,1993-04-05,Nis,retired,73726.36,797,2018-07-16,active
+451,Ana,Rankovic,1996-06-15,Belgrade,self-employed,74916.93,700,2023-11-29,active
+452,Eleonora,Sekulic,2011-09-17,Novi Sad,self-employed,236797.29,313,2020-09-02,active
+453,Ana,Rankovic,2006-05-03,Novi Sad,employed,139104.39,392,2018-05-25,active
+454,Mina,Rankovic,2002-12-13,Nis,self-employed,169951.25,478,2024-01-30,active
+455,Ana,Rankovic,2003-04-24,Valjevo,employed,111661.14,761,2024-07-14,active
+456,Ana,Rankovic,2009-06-02,Kragujevac,student,213161.93,434,2018-08-02,active
+457,Uros,Dimitrijevic,1994-08-14,Novi Sad,student,84236.00,568,2019-02-28,active
+458,Uros,Dimitrijevic,1985-05-10,Novi Sad,retired,109604.10,370,2019-01-31,active
+459,Stefan,Dimitrijevic,1985-06-20,Nis,self-employed,177365.95,601,2019-06-17,active
+460,Eleonora,Rankovic,1985-01-07,Kragujevac,employed,78978.11,841,2021-05-04,active
+461,Eleonora,Sekulic,2010-02-07,Kragujevac,employed,215714.67,741,2019-04-16,active
+462,Ana,Rankovic,2007-12-12,Nis,retired,129821.06,658,2022-10-26,active
+463,Ana,Dimitrijevic,1986-02-10,Nis,retired,247976.51,605,2018-12-21,active
+464,Eleonora,Stanojevic,2009-04-01,Novi Sad,student,125141.58,445,2020-11-21,active
+465,Ana,Rankovic,2009-09-14,Nis,retired,109143.75,642,2019-11-07,active
+466,Uros,Matic,1994-08-25,Kragujevac,employed,208493.36,402,2023-02-05,active
+467,Mina,Stanojevic,1996-06-19,Novi Sad,employed,53710.35,752,2019-10-09,active
+468,Ana,Sekulic,2011-09-01,Novi Sad,self-employed,100480.10,369,2023-12-13,active
+469,Eleonora,Stanojevic,2002-02-01,Nis,self-employed,150400.85,682,2024-07-02,active
+470,Eleonora,Matic,1986-06-16,Belgrade,employed,113366.60,802,2018-10-31,active
+471,Eleonora,Rankovic,2001-10-28,Kragujevac,self-employed,170447.47,503,2019-02-24,active
+472,Stefan,Sekulic,1996-03-16,Valjevo,employed,159885.33,751,2019-09-09,active
+473,Uros,Stanojevic,2007-03-15,Belgrade,retired,228723.10,475,2024-05-04,active
+474,Ana,Matic,2005-01-17,Belgrade,self-employed,217256.16,466,2019-03-18,active
+475,Eleonora,Stanojevic,1994-02-09,Valjevo,student,225633.17,770,2018-02-17,active
+476,Uros,Dimitrijevic,2003-08-25,Belgrade,self-employed,220033.61,565,2024-06-01,active
+477,Mina,Dimitrijevic,1999-12-03,Nis,retired,66659.49,713,2019-12-24,active
+478,Ana,Rankovic,1991-02-21,Kragujevac,retired,88341.45,360,2022-02-17,active
+479,Stefan,Matic,2000-07-26,Valjevo,employed,241502.09,543,2024-09-14,active
+480,Eleonora,Rankovic,1986-12-25,Valjevo,self-employed,139251.90,367,2022-02-23,active
+481,Eleonora,Stanojevic,1986-09-18,Belgrade,retired,99847.21,822,2023-06-08,active
+482,Mina,Stanojevic,2000-06-29,Belgrade,student,166639.85,712,2018-10-30,active
+483,Stefan,Stanojevic,2000-09-20,Kragujevac,employed,56123.80,502,2020-09-28,active
+484,Eleonora,Rankovic,1986-08-08,Belgrade,self-employed,208417.07,756,2021-08-17,active
+485,Uros,Stanojevic,2009-03-24,Novi Sad,employed,57312.51,581,2022-06-24,active
+486,Stefan,Matic,1985-05-20,Kragujevac,employed,245299.93,430,2023-12-30,active
+487,Eleonora,Stanojevic,2007-11-19,Kragujevac,retired,193010.48,319,2023-03-23,active
+488,Uros,Matic,2008-08-17,Valjevo,retired,133629.20,579,2018-11-10,active
+489,Ana,Rankovic,2006-04-24,Nis,student,171293.66,369,2021-05-02,active
+490,Stefan,Dimitrijevic,2006-12-05,Novi Sad,student,150185.36,467,2023-06-05,active
+491,Mina,Matic,1990-03-21,Novi Sad,self-employed,203323.46,582,2018-06-01,active
+492,Uros,Matic,1985-03-30,Belgrade,employed,231390.52,363,2023-07-03,active
+493,Eleonora,Dimitrijevic,1987-10-02,Nis,student,157302.20,314,2022-06-26,active
+494,Ana,Dimitrijevic,2012-02-02,Belgrade,self-employed,84747.72,633,2020-08-15,active
+495,Mina,Dimitrijevic,1988-08-22,Novi Sad,retired,148471.53,363,2020-03-06,active
+496,Uros,Stanojevic,2011-04-03,Valjevo,self-employed,59613.54,494,2019-11-02,active
+497,Eleonora,Matic,2001-03-20,Novi Sad,retired,97994.53,473,2020-12-08,active
+498,Ana,Matic,1995-09-28,Valjevo,student,174410.40,741,2019-05-25,active
+499,Uros,Dimitrijevic,2008-03-23,Nis,employed,147688.46,329,2018-05-15,active
+500,Ana,Sekulic,2004-09-25,Novi Sad,self-employed,178500.44,781,2020-09-30,active

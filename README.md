@@ -1,69 +1,94 @@
-# Banking Analytics SQL Project
+# Banking Customer Analysis
 
-## About
+## Project Overview
 
-This project is a simulation of a banking database built in PostgreSQL.
+This project explores customer, account, loan and transaction data using Python and Pandas. The main goal was to practice data analysis techniques and gain insights into customer behavior, account balances, loan portfolios and transaction activity.
 
-The goal was to practice designing a relational database, generating realistic data and writing SQL queries that answer common business questions a bank might have.
+The project is based on a fictional banking dataset that was previously created and analyzed using SQL. In this project, the same data was imported into Python for further analysis and visualization.
 
-The database contains customers, bank accounts, branches, loans and transactions connected through primary and foreign keys.
+---
 
+## Technologies Used
 
-## Database
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-The project consists of five tables:
+---
 
-- Customers
-- Accounts
-- Branches
-- Loans
-- Transactions
+## Project Structure
 
-The data is randomly generated, so every time the generation script is executed a new dataset is created.
+```text
+banking-data-analysis
+│
+├── data
+│   ├── customers.csv
+│   ├── accounts.csv
+│   ├── loans.csv
+│   ├── branches.csv
+│   └── transactions.csv
+│
+├── images
+│
+├── notebooks
+│   └── 01_customer_analysis.ipynb
+│
+└── README.md
+```
 
+---
 
+## Analysis Performed
 
-## What I practiced
+The project includes:
 
-During this project I worked with:
+- Initial data exploration
+- Customer analysis
+- Income analysis
+- Credit score analysis
+- Account analysis
+- Branch performance analysis
+- Loan portfolio analysis
+- Transaction analysis
+- Data visualization
+- Business insights
 
-- table design
-- primary and foreign keys
-- data generation using `generate_series()` and `random()`
-- JOINs
-- aggregate functions
-- GROUP BY and HAVING
-- CASE expressions
-- subqueries
-- window functions
-- Common Table Expressions (CTEs)
+---
 
+## Key Findings
 
+- Customer income differs across cities.
+- Mortgage loans represent the largest loan portfolio.
+- Branches differ in terms of total managed account balance.
+- Salary payments generate the highest transaction volume.
+- Customer data can be used to support business decision-making.
 
-## Example analyses
+---
 
-Some of the analyses included in this project are:
+## Sample Visualizations
 
-- number of customers by city
-- average income by city
-- top 10 customers by total account balance
-- branch performance
-- loan portfolio analysis
-- transaction analysis
-- cash inflow vs. outflow
-- comparison of customers within the same branch
+[Credit Score by City] (images/credit_score_by_city.png)
 
+[Credit Score Distribution] (images/credit_score_distribution.png)
 
-## Files
+[Income by City] (images/income_by_city.png)
 
-- `01_create_tables.sql` – database schema
-- `02_generate_data.sql` – data generation
-- `03_analysis.sql` – analytical SQL queries
+[Income Distribution] (images/income_distribution.png)
 
+[Number of Customers by City] (images/number_of_customers_by_city.png)
 
+---
 
-## Author
+## What I Learned
 
-Ana Ranković
+During this project I practiced:
 
-Faculty of Mathematics, University of Belgrade
+- loading and exploring datasets with Pandas
+- merging multiple tables
+- grouping and aggregating data
+- creating business-oriented summaries
+- building visualizations with Matplotlib and Seaborn
+- presenting analytical findings in a structured report

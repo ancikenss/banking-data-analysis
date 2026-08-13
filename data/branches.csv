@@ -1,0 +1,26 @@
+"branch_id","branch_name","city","address","region","opened_at","branch_status"
+1,Belgrade Center,Belgrade,Knez Mihailova 15,Belgrade,2005-03-10,active
+2,New Belgrade,Belgrade,Bulevar Mihajla Pupina 10,Belgrade,2010-06-21,active
+3,Novi Sad Center,Novi Sad,Bulevar oslobođenja 25,Vojvodina,2008-09-15,active
+4,Niš Center,Niš,Obrenovićeva 12,Southern Serbia,2012-04-05,active
+5,Valjevo Center,Valjevo,Karađorđeva 40,Western Serbia,2015-11-18,active
+6,Belgrade Center,Belgrade,Knez Mihailova 15,Belgrade,2010-05-01,active
+7,New Belgrade,Belgrade,Bulevar Mihajla Pupina 8,Belgrade,2012-08-15,active
+8,Novi Sad Center,Novi Sad,Bulevar Oslobodjenja 20,Vojvodina,2011-03-10,active
+9,Valjevo Center,Valjevo,Karadjordjeva 45,Western Serbia,2015-07-01,active
+10,Nis Center,Nis,Vozda Karadjordja 12,Southern Serbia,2014-04-18,active
+11,Kragujevac Center,Kragujevac,Kralja Petra 9,Central Serbia,2016-09-20,active
+12,Subotica Center,Subotica,Korzo 3,Vojvodina,2017-11-12,active
+13,Cacak Center,Cacak,Gradsko Setaliste 7,Western Serbia,2018-06-30,active
+14,Kraljevo Center,Kraljevo,Cara Lazara 25,Central Serbia,2019-02-14,active
+15,Uzice Center,Uzice,Dimitrija Tucovica 18,Western Serbia,2020-10-05,active
+16,Belgrade Center,Belgrade,Knez Mihailova 15,Belgrade,2010-05-01,active
+17,New Belgrade,Belgrade,Bulevar Mihajla Pupina 8,Belgrade,2012-08-15,active
+18,Novi Sad Center,Novi Sad,Bulevar Oslobodjenja 20,Vojvodina,2011-03-10,active
+19,Valjevo Center,Valjevo,Karadjordjeva 45,Western Serbia,2015-07-01,active
+20,Nis Center,Nis,Vozda Karadjordja 12,Southern Serbia,2014-04-18,active
+21,Kragujevac Center,Kragujevac,Kralja Petra 9,Central Serbia,2016-09-20,active
+22,Subotica Center,Subotica,Korzo 3,Vojvodina,2017-11-12,active
+23,Cacak Center,Cacak,Gradsko Setaliste 7,Western Serbia,2018-06-30,active
+24,Kraljevo Center,Kraljevo,Cara Lazara 25,Central Serbia,2019-02-14,active
+25,Uzice Center,Uzice,Dimitrija Tucovica 18,Western Serbia,2020-10-05,active

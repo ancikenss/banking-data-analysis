@@ -1,0 +1,1501 @@
+"account_id","customer_id","branch_id","account_type","currency","balance","opened_at","account_status"
+1,1,4,checking,RSD,190814.53,2022-05-01,inactive
+2,2,10,checking,RSD,305926.83,2022-08-06,active
+3,3,3,foreign currency,RSD,382241.83,2024-05-17,active
+4,4,3,foreign currency,RSD,112074.30,2021-03-02,active
+5,5,9,checking,RSD,230116.31,2022-01-24,active
+6,6,8,checking,RSD,116861.56,2021-11-19,active
+7,7,1,checking,RSD,25531.99,2022-09-13,active
+8,8,8,foreign currency,RSD,319899.17,2025-12-09,active
+9,9,5,savings,RSD,836442.77,2025-02-15,active
+10,10,8,savings,RSD,430670.89,2023-03-20,active
+11,11,3,savings,RSD,866236.56,2025-12-15,active
+12,12,8,checking,RSD,429168.23,2023-10-22,active
+13,13,3,savings,RSD,538247.80,2026-06-01,inactive
+14,14,1,savings,RSD,1488551.24,2022-01-14,active
+15,15,8,checking,RSD,259332.20,2022-06-13,active
+16,16,8,savings,RSD,884044.78,2020-01-22,inactive
+17,17,8,savings,RSD,586237.37,2025-03-25,active
+18,18,4,savings,RSD,402111.06,2023-06-17,active
+19,19,6,savings,RSD,1286412.93,2025-03-21,active
+20,20,2,foreign currency,RSD,389826.17,2022-01-11,active
+21,21,8,foreign currency,RSD,128942.77,2020-05-31,active
+22,22,8,savings,RSD,161244.06,2022-01-20,active
+23,23,9,savings,RSD,653534.74,2024-07-23,active
+24,24,8,checking,RSD,40237.73,2018-06-19,active
+25,25,5,checking,RSD,346578.60,2024-12-23,inactive
+26,26,6,savings,RSD,1378480.12,2024-08-03,active
+27,27,1,foreign currency,RSD,404237.97,2024-12-25,active
+28,28,5,checking,RSD,287742.80,2024-07-14,active
+29,29,5,foreign currency,RSD,56373.85,2025-07-30,active
+30,30,10,savings,RSD,1278623.85,2025-07-21,inactive
+31,31,8,checking,RSD,273100.67,2025-03-23,active
+32,32,8,savings,RSD,1143202.36,2022-01-12,active
+33,33,6,checking,RSD,430977.53,2026-02-02,active
+34,34,10,checking,RSD,324256.43,2023-03-29,active
+35,35,9,checking,RSD,326980.51,2025-04-13,active
+36,36,3,savings,RSD,587565.84,2025-01-01,active
+37,37,1,checking,RSD,409612.44,2025-06-30,active
+38,38,5,savings,RSD,842506.23,2024-04-14,active
+39,39,4,checking,RSD,2188.97,2026-05-15,active
+40,40,5,checking,RSD,105286.35,2026-02-12,active
+41,41,5,savings,RSD,1223549.03,2023-10-04,inactive
+42,42,4,savings,RSD,275101.01,2024-10-05,active
+43,43,9,foreign currency,RSD,442358.55,2024-12-27,active
+44,44,8,foreign currency,RSD,402576.22,2021-10-22,active
+45,45,8,savings,RSD,1032813.98,2025-05-05,active
+46,46,10,checking,RSD,421859.99,2022-05-16,active
+47,47,2,savings,RSD,1045257.47,2023-07-24,inactive
+48,48,4,foreign currency,RSD,364106.15,2019-09-01,active
+49,49,10,checking,RSD,474926.70,2023-08-09,active
+50,50,3,checking,RSD,350262.49,2024-11-03,active
+51,51,8,foreign currency,RSD,256441.51,2023-06-28,active
+52,52,8,foreign currency,RSD,406989.78,2023-08-09,active
+53,53,4,checking,RSD,188126.22,2022-12-31,active
+54,54,7,foreign currency,RSD,279460.76,2024-10-18,active
+55,55,8,savings,RSD,1014243.72,2025-08-30,active
+56,56,4,foreign currency,RSD,254105.25,2022-05-01,active
+57,57,9,checking,RSD,479790.50,2025-11-07,active
+58,58,9,foreign currency,RSD,54663.69,2024-08-31,active
+59,59,7,savings,RSD,983165.17,2021-12-13,active
+60,60,10,checking,RSD,158674.83,2024-10-28,active
+61,61,7,checking,RSD,28914.21,2025-06-29,active
+62,62,4,checking,RSD,485590.94,2019-05-03,active
+63,63,6,foreign currency,RSD,460331.25,2025-05-24,active
+64,64,10,savings,RSD,552422.90,2024-06-30,active
+65,65,8,savings,RSD,1371749.41,2019-06-19,active
+66,66,5,savings,RSD,363968.08,2024-10-27,active
+67,67,1,savings,RSD,744356.90,2021-10-06,active
+68,68,9,foreign currency,RSD,144587.43,2025-03-03,active
+69,69,6,checking,RSD,283997.49,2024-12-08,active
+70,70,6,foreign currency,RSD,185360.58,2021-03-12,active
+71,71,10,checking,RSD,465310.04,2025-10-10,active
+72,72,2,checking,RSD,297069.02,2026-06-09,active
+73,73,7,savings,RSD,1280948.69,2025-04-04,active
+74,74,5,savings,RSD,733914.92,2022-03-22,active
+75,75,6,checking,RSD,21719.15,2024-03-01,active
+76,76,8,checking,RSD,284633.89,2023-07-27,active
+77,77,5,savings,RSD,345857.46,2025-02-22,active
+78,78,2,foreign currency,RSD,99167.30,2026-07-16,active
+79,79,6,foreign currency,RSD,235915.84,2024-11-04,active
+80,80,9,foreign currency,RSD,308426.95,2026-01-07,active
+81,81,3,savings,RSD,1487575.55,2026-01-29,active
+82,82,10,checking,RSD,264013.95,2024-03-28,active
+83,83,3,foreign currency,RSD,106052.36,2021-12-16,inactive
+84,84,9,checking,RSD,128064.95,2021-06-28,active
+85,85,5,checking,RSD,212860.56,2025-02-23,active
+86,86,3,savings,RSD,1116717.07,2025-09-10,inactive
+87,87,6,foreign currency,RSD,375734.71,2022-12-11,active
+88,88,2,foreign currency,RSD,166692.01,2023-12-18,active
+89,89,3,foreign currency,RSD,281005.14,2026-07-17,active
+90,90,6,foreign currency,RSD,2770.63,2026-01-08,active
+91,91,2,foreign currency,RSD,435526.29,2024-07-03,active
+92,92,8,savings,RSD,898312.45,2024-11-15,active
+93,93,3,savings,RSD,776764.51,2026-07-03,active
+94,94,2,checking,RSD,257529.31,2024-05-16,active
+95,95,8,foreign currency,RSD,286813.54,2023-10-28,active
+96,96,3,checking,RSD,57188.70,2023-09-27,inactive
+97,97,8,savings,RSD,424862.02,2020-01-13,active
+98,98,9,foreign currency,RSD,16982.76,2022-09-15,inactive
+99,99,6,savings,RSD,272230.02,2025-11-25,active
+100,100,7,foreign currency,RSD,4118.68,2021-04-09,active
+101,101,8,savings,RSD,497940.65,2024-11-05,active
+102,102,2,savings,RSD,1362029.53,2023-11-17,active
+103,103,5,foreign currency,RSD,402036.95,2023-02-11,inactive
+104,104,2,foreign currency,RSD,300792.43,2024-01-13,active
+105,105,6,savings,RSD,517243.64,2024-11-12,active
+106,106,3,savings,RSD,102652.09,2025-06-17,inactive
+107,107,6,foreign currency,RSD,100700.78,2026-03-02,active
+108,108,6,checking,RSD,46928.15,2023-08-23,active
+109,109,6,foreign currency,RSD,452846.86,2025-01-10,active
+110,110,8,checking,RSD,306471.50,2024-04-10,active
+111,111,2,savings,RSD,180747.80,2023-07-28,active
+112,112,3,checking,RSD,138328.92,2022-03-04,active
+113,113,10,foreign currency,RSD,369267.47,2023-10-23,inactive
+114,114,4,checking,RSD,220714.88,2026-01-30,active
+115,115,2,checking,RSD,471122.36,2022-11-24,active
+116,116,9,foreign currency,RSD,472779.11,2024-04-03,active
+117,117,9,foreign currency,RSD,460800.96,2024-04-23,active
+118,118,5,foreign currency,RSD,363114.33,2026-06-06,active
+119,119,4,checking,RSD,46706.66,2026-07-16,active
+120,120,9,foreign currency,RSD,83051.18,2022-04-12,active
+121,121,1,foreign currency,RSD,53167.48,2022-03-22,active
+122,122,8,checking,RSD,276074.92,2025-04-28,active
+123,123,7,savings,RSD,796487.69,2019-11-04,active
+124,124,6,foreign currency,RSD,215390.03,2022-03-11,active
+125,125,6,foreign currency,RSD,411550.69,2024-06-07,active
+126,126,3,checking,RSD,225120.63,2022-06-03,active
+127,127,5,foreign currency,RSD,418591.08,2022-12-11,active
+128,128,6,foreign currency,RSD,370851.23,2022-07-10,active
+129,129,9,savings,RSD,234423.37,2024-11-24,active
+130,130,2,checking,RSD,241705.92,2023-05-28,inactive
+131,131,7,checking,RSD,9409.12,2025-10-20,active
+132,132,2,savings,RSD,1205204.18,2020-05-21,active
+133,133,1,savings,RSD,1127800.02,2024-06-26,active
+134,134,9,checking,RSD,355695.93,2020-04-20,active
+135,135,4,foreign currency,RSD,255936.41,2026-01-23,active
+136,136,9,foreign currency,RSD,162138.81,2025-06-29,active
+137,137,2,savings,RSD,1452282.69,2024-12-28,active
+138,138,5,foreign currency,RSD,412737.57,2024-12-10,active
+139,139,8,foreign currency,RSD,265003.65,2024-01-21,active
+140,140,4,foreign currency,RSD,444190.40,2024-11-28,active
+141,141,10,savings,RSD,113061.24,2023-09-12,active
+142,142,2,foreign currency,RSD,408815.31,2026-07-24,active
+143,143,4,foreign currency,RSD,137302.67,2021-10-12,active
+144,144,4,foreign currency,RSD,298549.73,2023-12-12,inactive
+145,145,8,foreign currency,RSD,340714.17,2019-07-16,active
+146,146,9,savings,RSD,1353551.88,2024-01-01,active
+147,147,1,foreign currency,RSD,407756.85,2025-03-16,active
+148,148,4,savings,RSD,851508.39,2025-06-26,active
+149,149,2,foreign currency,RSD,396729.14,2025-12-11,active
+150,150,9,foreign currency,RSD,200418.24,2025-12-23,active
+151,151,2,savings,RSD,941245.89,2024-04-19,active
+152,152,7,savings,RSD,404672.09,2024-03-19,inactive
+153,153,7,savings,RSD,1192666.70,2026-05-30,active
+154,154,7,savings,RSD,1304490.82,2023-09-08,inactive
+155,155,6,foreign currency,RSD,219455.73,2025-05-01,active
+156,156,3,checking,RSD,18023.07,2025-03-14,active
+157,157,1,savings,RSD,1105182.81,2021-06-09,active
+158,158,9,savings,RSD,1011645.72,2022-02-25,active
+159,159,8,savings,RSD,288944.41,2025-12-15,active
+160,160,8,savings,RSD,206054.56,2026-03-03,active
+161,161,3,checking,RSD,407172.64,2025-01-03,active
+162,162,5,foreign currency,RSD,363469.80,2022-03-14,active
+163,163,9,foreign currency,RSD,145423.24,2022-12-23,active
+164,164,8,foreign currency,RSD,200077.10,2021-08-26,active
+165,165,3,foreign currency,RSD,248721.23,2021-02-14,active
+166,166,8,savings,RSD,745455.03,2025-05-23,active
+167,167,1,savings,RSD,1403040.43,2025-12-18,active
+168,168,3,checking,RSD,295562.96,2023-03-23,active
+169,169,4,checking,RSD,418876.49,2024-08-10,active
+170,170,4,foreign currency,RSD,147052.20,2021-11-03,active
+171,171,3,foreign currency,RSD,181308.95,2023-06-17,active
+172,172,9,checking,RSD,17785.08,2021-03-22,active
+173,173,8,checking,RSD,412490.73,2023-02-24,active
+174,174,6,foreign currency,RSD,939.99,2019-07-18,active
+175,175,7,checking,RSD,470457.46,2026-01-19,active
+176,176,9,savings,RSD,595301.90,2020-06-12,active
+177,177,1,foreign currency,RSD,363975.81,2025-01-15,active
+178,178,9,savings,RSD,323294.64,2025-01-19,inactive
+179,179,1,foreign currency,RSD,312229.74,2025-10-11,active
+180,180,6,savings,RSD,1455295.75,2025-03-17,active
+181,181,10,savings,RSD,274421.24,2025-06-08,active
+182,182,1,foreign currency,RSD,131829.95,2020-12-16,active
+183,183,7,foreign currency,RSD,254540.41,2023-01-28,active
+184,184,4,foreign currency,RSD,333049.69,2025-07-23,active
+185,185,5,checking,RSD,170657.65,2021-11-18,active
+186,186,9,savings,RSD,315185.32,2022-02-01,active
+187,187,5,savings,RSD,1466467.80,2020-08-20,inactive
+188,188,8,savings,RSD,174411.41,2020-03-01,active
+189,189,9,foreign currency,RSD,452771.92,2025-02-05,active
+190,190,10,foreign currency,RSD,200396.68,2022-11-28,active
+191,191,3,foreign currency,RSD,223633.28,2024-12-15,active
+192,192,10,foreign currency,RSD,456854.23,2019-09-13,active
+193,193,10,foreign currency,RSD,95534.96,2023-09-26,active
+194,194,10,foreign currency,RSD,312651.14,2021-01-17,active
+195,195,7,checking,RSD,50220.57,2023-04-22,active
+196,196,4,foreign currency,RSD,218636.92,2022-03-04,active
+197,197,6,savings,RSD,607541.07,2025-11-14,active
+198,198,7,foreign currency,RSD,469598.88,2026-01-22,active
+199,199,1,savings,RSD,216897.34,2019-01-20,inactive
+200,200,2,checking,RSD,96545.27,2023-07-30,active
+201,201,10,foreign currency,RSD,203546.67,2024-11-20,active
+202,202,9,savings,RSD,1238249.91,2023-06-10,inactive
+203,203,1,savings,RSD,400682.50,2025-09-02,active
+204,204,9,foreign currency,RSD,360530.65,2026-04-20,active
+205,205,2,foreign currency,RSD,43358.99,2022-09-21,active
+206,206,4,foreign currency,RSD,39989.65,2024-09-26,active
+207,207,1,savings,RSD,1162095.59,2020-08-16,active
+208,208,4,foreign currency,RSD,46675.86,2026-01-10,active
+209,209,9,savings,RSD,1082358.95,2025-07-24,active
+210,210,8,foreign currency,RSD,340878.32,2024-07-05,active
+211,211,3,savings,RSD,209348.52,2026-01-21,active
+212,212,5,foreign currency,RSD,6414.52,2021-03-29,active
+213,213,6,savings,RSD,972856.50,2026-03-02,inactive
+214,214,6,foreign currency,RSD,49057.02,2025-04-21,active
+215,215,9,savings,RSD,156371.99,2023-09-01,active
+216,216,9,foreign currency,RSD,85107.54,2024-05-20,active
+217,217,3,foreign currency,RSD,47234.54,2024-02-10,active
+218,218,10,savings,RSD,133784.97,2024-05-28,active
+219,219,5,foreign currency,RSD,20283.19,2025-08-04,active
+220,220,5,foreign currency,RSD,171942.95,2019-11-09,active
+221,221,2,savings,RSD,252185.80,2023-09-27,active
+222,222,5,savings,RSD,154633.24,2022-10-09,active
+223,223,9,savings,RSD,1251917.89,2021-04-23,active
+224,224,1,savings,RSD,639129.53,2026-05-23,active
+225,225,6,checking,RSD,145266.37,2023-04-05,active
+226,226,6,checking,RSD,248096.86,2026-04-07,active
+227,227,4,foreign currency,RSD,440694.71,2024-09-15,closed
+228,228,4,savings,RSD,341320.47,2019-04-21,inactive
+229,229,6,foreign currency,RSD,480497.17,2023-04-05,active
+230,230,5,checking,RSD,41205.46,2023-04-28,active
+231,231,1,savings,RSD,1193649.54,2025-09-29,active
+232,232,2,checking,RSD,82678.90,2024-02-07,active
+233,233,5,checking,RSD,473852.50,2023-10-31,active
+234,234,3,checking,RSD,124187.55,2023-01-20,active
+235,235,1,savings,RSD,1424256.61,2020-10-02,active
+236,236,1,foreign currency,RSD,112291.88,2023-09-19,active
+237,237,3,checking,RSD,85912.29,2022-10-29,active
+238,238,8,checking,RSD,283978.27,2024-06-23,inactive
+239,239,10,checking,RSD,50632.34,2021-06-22,active
+240,240,1,checking,RSD,55668.35,2025-08-12,active
+241,241,1,savings,RSD,422196.67,2019-01-13,active
+242,242,1,savings,RSD,674419.35,2022-10-15,active
+243,243,5,checking,RSD,19834.37,2022-04-14,active
+244,244,3,savings,RSD,973591.33,2022-05-20,inactive
+245,245,4,savings,RSD,1336287.42,2021-01-06,active
+246,246,10,savings,RSD,1280624.33,2023-12-04,active
+247,247,4,savings,RSD,1192159.39,2023-08-29,active
+248,248,6,savings,RSD,155588.48,2025-06-14,active
+249,249,8,savings,RSD,1475694.01,2023-03-14,active
+250,250,8,checking,RSD,142047.84,2026-01-26,active
+251,251,2,savings,RSD,357072.35,2023-08-16,active
+252,252,3,foreign currency,RSD,40139.93,2025-02-19,active
+253,253,10,checking,RSD,118872.46,2026-02-20,active
+254,254,4,savings,RSD,235432.95,2024-09-26,active
+255,255,2,foreign currency,RSD,357513.35,2024-04-18,active
+256,256,7,checking,RSD,445366.10,2026-02-14,active
+257,257,7,foreign currency,RSD,439389.30,2023-10-19,active
+258,258,10,savings,RSD,1367061.52,2025-11-14,active
+259,259,5,foreign currency,RSD,223049.83,2019-03-22,active
+260,260,8,checking,RSD,329964.25,2025-11-25,active
+261,261,5,foreign currency,RSD,915.34,2021-02-19,active
+262,262,9,foreign currency,RSD,424092.16,2025-05-18,active
+263,263,2,foreign currency,RSD,327202.71,2024-08-19,active
+264,264,7,savings,RSD,606303.12,2020-12-21,active
+265,265,1,savings,RSD,847988.21,2023-05-13,active
+266,266,2,checking,RSD,114907.88,2025-07-16,active
+267,267,10,savings,RSD,158814.07,2025-08-10,active
+268,268,9,checking,RSD,243033.76,2023-10-31,inactive
+269,269,5,checking,RSD,157511.09,2021-11-27,active
+270,270,1,savings,RSD,175679.94,2025-09-25,active
+271,271,10,foreign currency,RSD,393125.88,2019-11-10,active
+272,272,6,checking,RSD,399327.72,2026-06-06,active
+273,273,8,checking,RSD,254441.51,2022-01-05,active
+274,274,10,checking,RSD,231112.49,2024-04-20,active
+275,275,7,checking,RSD,462459.06,2026-05-26,active
+276,276,1,foreign currency,RSD,267633.34,2019-11-14,active
+277,277,9,checking,RSD,259118.93,2025-11-24,active
+278,278,6,foreign currency,RSD,202384.46,2020-09-29,active
+279,279,5,foreign currency,RSD,311574.49,2025-02-09,active
+280,280,10,foreign currency,RSD,425411.01,2023-07-08,active
+281,281,8,checking,RSD,55876.18,2024-08-12,closed
+282,282,10,foreign currency,RSD,5110.45,2023-11-14,active
+283,283,9,foreign currency,RSD,44440.52,2020-06-28,active
+284,284,7,savings,RSD,1039458.51,2026-06-19,active
+285,285,3,foreign currency,RSD,491031.69,2023-03-24,active
+286,286,6,savings,RSD,1042226.81,2022-11-09,active
+287,287,2,savings,RSD,693692.25,2022-03-09,active
+288,288,7,foreign currency,RSD,156608.25,2023-12-05,active
+289,289,6,checking,RSD,344799.57,2023-09-10,active
+290,290,4,foreign currency,RSD,42602.07,2026-05-20,active
+291,291,3,foreign currency,RSD,63006.19,2024-03-27,active
+292,292,2,savings,RSD,1230161.02,2025-04-15,active
+293,293,1,savings,RSD,933144.14,2023-07-04,active
+294,294,7,checking,RSD,448413.80,2023-01-17,active
+295,295,10,foreign currency,RSD,455610.28,2021-11-14,active
+296,296,7,foreign currency,RSD,337154.20,2022-03-26,active
+297,297,8,foreign currency,RSD,460333.12,2026-05-26,active
+298,298,10,savings,RSD,753928.41,2024-08-16,active
+299,299,10,foreign currency,RSD,396661.59,2021-09-07,active
+300,300,4,checking,RSD,185105.57,2024-04-09,active
+301,301,10,checking,RSD,300761.47,2023-01-17,active
+302,302,4,savings,RSD,67917.47,2024-01-21,active
+303,303,10,savings,RSD,485181.60,2021-11-28,active
+304,304,8,savings,RSD,1359741.48,2024-07-02,active
+305,305,2,savings,RSD,1434744.21,2022-11-03,active
+306,306,2,checking,RSD,269753.17,2022-05-11,active
+307,307,8,foreign currency,RSD,114169.67,2023-08-08,active
+308,308,10,foreign currency,RSD,13580.86,2022-06-01,active
+309,309,5,foreign currency,RSD,339304.51,2021-08-04,active
+310,310,1,foreign currency,RSD,366511.54,2025-01-15,active
+311,311,3,foreign currency,RSD,99479.19,2024-02-26,active
+312,312,6,foreign currency,RSD,274710.55,2024-04-16,active
+313,313,9,checking,RSD,69025.85,2021-04-28,active
+314,314,4,savings,RSD,174212.90,2022-09-01,active
+315,315,6,savings,RSD,118169.76,2026-05-08,active
+316,316,6,checking,RSD,308739.45,2021-05-31,active
+317,317,4,savings,RSD,638238.45,2021-06-13,active
+318,318,9,savings,RSD,220104.78,2026-07-01,inactive
+319,319,3,checking,RSD,85557.87,2021-04-20,active
+320,320,7,savings,RSD,574483.10,2024-02-07,active
+321,321,5,foreign currency,RSD,453960.84,2024-08-25,active
+322,322,5,foreign currency,RSD,204865.38,2025-03-23,active
+323,323,1,savings,RSD,1244367.67,2022-04-15,active
+324,324,4,foreign currency,RSD,179758.56,2022-10-12,active
+325,325,4,savings,RSD,259850.38,2025-08-28,active
+326,326,6,savings,RSD,828928.36,2023-02-13,active
+327,327,10,savings,RSD,58355.90,2022-01-08,active
+328,328,6,checking,RSD,473049.63,2021-05-25,active
+329,329,6,savings,RSD,51233.25,2024-06-25,active
+330,330,8,checking,RSD,295147.16,2023-10-01,active
+331,331,2,foreign currency,RSD,146239.14,2024-01-29,inactive
+332,332,6,savings,RSD,162792.35,2023-11-18,active
+333,333,3,checking,RSD,30183.58,2022-03-19,active
+334,334,8,foreign currency,RSD,195098.21,2018-10-04,active
+335,335,3,foreign currency,RSD,354912.19,2025-03-19,active
+336,336,4,savings,RSD,1403620.83,2025-11-02,active
+337,337,2,savings,RSD,1212540.19,2020-11-13,active
+338,338,1,checking,RSD,269894.92,2021-10-05,active
+339,339,9,checking,RSD,434102.34,2021-06-02,active
+340,340,10,checking,RSD,389441.51,2024-02-09,active
+341,341,7,foreign currency,RSD,219889.02,2019-09-22,active
+342,342,9,savings,RSD,749446.44,2024-12-23,active
+343,343,6,foreign currency,RSD,137931.31,2019-11-04,active
+344,344,10,checking,RSD,21550.52,2024-11-08,active
+345,345,4,foreign currency,RSD,92449.13,2020-07-10,active
+346,346,1,savings,RSD,650154.25,2024-10-29,active
+347,347,7,checking,RSD,169401.69,2025-11-22,active
+348,348,4,checking,RSD,71205.52,2023-11-06,active
+349,349,10,savings,RSD,889387.53,2026-01-30,active
+350,350,5,foreign currency,RSD,344406.52,2022-12-04,closed
+351,351,10,foreign currency,RSD,276815.61,2022-08-18,active
+352,352,6,savings,RSD,263238.81,2023-05-20,active
+353,353,5,savings,RSD,973465.11,2024-06-08,active
+354,354,7,foreign currency,RSD,8876.64,2023-12-29,active
+355,355,1,checking,RSD,158278.73,2021-10-19,active
+356,356,9,savings,RSD,1184458.70,2026-06-03,active
+357,357,9,checking,RSD,177152.76,2022-10-10,active
+358,358,5,savings,RSD,1311543.09,2024-06-30,active
+359,359,9,savings,RSD,930890.99,2022-01-12,active
+360,360,4,foreign currency,RSD,85455.30,2026-03-05,active
+361,361,10,foreign currency,RSD,268004.64,2024-12-21,active
+362,362,10,foreign currency,RSD,273265.88,2025-08-14,active
+363,363,10,savings,RSD,998290.33,2024-06-28,active
+364,364,9,checking,RSD,104798.24,2023-09-08,active
+365,365,2,savings,RSD,1249715.72,2024-01-07,active
+366,366,3,foreign currency,RSD,353334.18,2019-04-11,active
+367,367,6,checking,RSD,86239.85,2024-07-08,active
+368,368,1,savings,RSD,1110378.43,2018-11-14,active
+369,369,10,savings,RSD,642312.68,2026-01-17,active
+370,370,8,savings,RSD,777195.65,2026-04-17,active
+371,371,7,savings,RSD,171036.79,2024-11-04,active
+372,372,9,checking,RSD,391559.71,2024-01-21,inactive
+373,373,10,checking,RSD,88501.34,2025-10-27,active
+374,374,10,foreign currency,RSD,483943.60,2019-08-09,active
+375,375,9,foreign currency,RSD,196787.01,2021-01-30,active
+376,376,7,savings,RSD,1019403.05,2021-09-30,inactive
+377,377,3,checking,RSD,428168.01,2024-08-31,active
+378,378,10,checking,RSD,246761.75,2024-03-19,active
+379,379,6,foreign currency,RSD,210669.26,2021-11-11,active
+380,380,6,foreign currency,RSD,485379.16,2023-07-08,active
+381,381,1,savings,RSD,349706.64,2021-03-16,active
+382,382,10,checking,RSD,79639.34,2025-07-10,active
+383,383,8,foreign currency,RSD,445135.17,2023-12-09,active
+384,384,6,savings,RSD,549019.49,2026-04-15,active
+385,385,7,checking,RSD,274331.36,2024-01-12,active
+386,386,9,checking,RSD,41298.90,2024-12-31,active
+387,387,4,savings,RSD,1282949.14,2024-08-17,active
+388,388,6,foreign currency,RSD,286445.34,2024-10-27,inactive
+389,389,1,foreign currency,RSD,34302.29,2024-01-22,active
+390,390,9,savings,RSD,228018.11,2024-10-13,active
+391,391,5,savings,RSD,1400356.24,2021-02-03,active
+392,392,5,checking,RSD,408632.78,2023-05-29,active
+393,393,6,savings,RSD,954488.69,2026-07-03,active
+394,394,1,savings,RSD,51621.65,2024-12-06,active
+395,395,4,savings,RSD,1112005.61,2024-10-15,active
+396,396,4,savings,RSD,1260192.81,2025-09-08,active
+397,397,10,foreign currency,RSD,212036.96,2024-03-16,active
+398,398,7,checking,RSD,262858.01,2021-12-04,active
+399,399,5,savings,RSD,1487474.13,2024-06-13,active
+400,400,8,checking,RSD,296736.80,2024-08-20,active
+401,401,4,savings,RSD,1008201.26,2025-02-14,active
+402,402,6,foreign currency,RSD,490838.75,2020-06-02,active
+403,403,4,savings,RSD,1434910.12,2025-08-03,active
+404,404,9,checking,RSD,187523.50,2021-08-09,active
+405,405,6,foreign currency,RSD,244646.33,2020-11-01,active
+406,406,8,foreign currency,RSD,30031.84,2024-12-29,active
+407,407,3,savings,RSD,376881.15,2023-07-23,active
+408,408,9,checking,RSD,64842.34,2026-04-27,active
+409,409,9,foreign currency,RSD,400886.36,2026-02-08,active
+410,410,7,savings,RSD,1326691.37,2024-01-10,active
+411,411,5,foreign currency,RSD,199044.84,2024-07-28,active
+412,412,4,checking,RSD,298853.03,2024-12-19,active
+413,413,7,savings,RSD,580591.67,2023-03-04,active
+414,414,10,foreign currency,RSD,21894.82,2025-06-11,inactive
+415,415,9,checking,RSD,477825.90,2020-10-22,active
+416,416,2,savings,RSD,1160913.49,2025-10-21,inactive
+417,417,6,savings,RSD,1385393.28,2024-08-14,active
+418,418,9,savings,RSD,1382011.35,2021-04-07,active
+419,419,5,savings,RSD,1271021.55,2021-01-18,active
+420,420,1,foreign currency,RSD,57954.98,2022-05-19,active
+421,421,2,checking,RSD,465889.46,2026-08-03,active
+422,422,5,foreign currency,RSD,397191.28,2024-02-18,active
+423,423,6,foreign currency,RSD,294094.86,2020-05-02,inactive
+424,424,2,savings,RSD,609578.03,2022-08-04,active
+425,425,1,savings,RSD,1037307.71,2021-07-07,active
+426,426,6,savings,RSD,1095282.97,2026-03-14,inactive
+427,427,6,foreign currency,RSD,217312.28,2025-09-04,active
+428,428,7,foreign currency,RSD,365048.62,2024-05-04,active
+429,429,3,savings,RSD,1079559.05,2023-06-03,active
+430,430,1,savings,RSD,958091.61,2025-11-21,active
+431,431,8,checking,RSD,247404.62,2025-07-06,active
+432,432,9,checking,RSD,26883.94,2020-11-21,active
+433,433,9,savings,RSD,271794.13,2020-09-15,active
+434,434,2,savings,RSD,628011.86,2026-07-27,active
+435,435,3,foreign currency,RSD,267046.40,2023-10-03,active
+436,436,7,foreign currency,RSD,70133.81,2024-09-16,active
+437,437,9,checking,RSD,67854.59,2024-10-15,active
+438,438,8,foreign currency,RSD,151805.08,2026-03-22,active
+439,439,4,checking,RSD,417331.58,2024-06-02,active
+440,440,1,foreign currency,RSD,128657.22,2025-06-27,active
+441,441,3,foreign currency,RSD,410494.97,2019-01-18,active
+442,442,5,foreign currency,RSD,298805.57,2021-08-13,active
+443,443,3,savings,RSD,344135.52,2025-10-19,inactive
+444,444,1,foreign currency,RSD,240339.98,2025-08-03,active
+445,445,7,foreign currency,RSD,414215.48,2024-09-11,active
+446,446,1,foreign currency,RSD,343509.03,2022-05-20,active
+447,447,6,checking,RSD,496111.51,2025-04-25,inactive
+448,448,6,foreign currency,RSD,212357.62,2026-03-13,active
+449,449,8,foreign currency,RSD,392271.28,2025-10-18,inactive
+450,450,4,checking,RSD,96006.16,2026-07-26,active
+451,451,7,checking,RSD,413592.41,2024-04-05,active
+452,452,8,checking,RSD,246194.72,2026-08-04,active
+453,453,8,checking,RSD,296471.97,2023-01-09,active
+454,454,8,foreign currency,RSD,461529.70,2024-02-14,active
+455,455,2,foreign currency,RSD,405899.26,2025-04-30,active
+456,456,3,savings,RSD,585569.45,2020-11-30,active
+457,457,4,savings,RSD,1363165.49,2023-01-11,active
+458,458,10,checking,RSD,497013.78,2022-07-21,active
+459,459,4,foreign currency,RSD,47293.77,2024-01-26,active
+460,460,2,checking,RSD,433299.16,2025-03-05,active
+461,461,8,foreign currency,RSD,398779.81,2023-02-26,active
+462,462,3,savings,RSD,368681.24,2023-12-23,active
+463,463,1,checking,RSD,59663.99,2019-04-30,active
+464,464,1,foreign currency,RSD,168539.91,2021-10-13,inactive
+465,465,2,foreign currency,RSD,115114.43,2025-04-25,active
+466,466,7,checking,RSD,15537.68,2024-12-30,active
+467,467,9,foreign currency,RSD,444672.46,2021-12-12,active
+468,468,2,savings,RSD,1081146.02,2026-01-31,active
+469,469,7,checking,RSD,385768.05,2026-01-17,active
+470,470,5,foreign currency,RSD,247561.62,2019-07-28,active
+471,471,3,savings,RSD,1037228.47,2020-11-18,active
+472,472,10,foreign currency,RSD,422643.35,2020-06-20,active
+473,473,7,checking,RSD,41075.40,2025-10-14,active
+474,474,5,savings,RSD,586088.66,2021-05-01,active
+475,475,3,checking,RSD,294074.83,2022-11-25,active
+476,476,8,checking,RSD,190857.05,2026-04-15,active
+477,477,5,foreign currency,RSD,339561.46,2026-06-02,inactive
+478,478,2,checking,RSD,282044.45,2025-02-05,active
+479,479,5,savings,RSD,908605.33,2026-06-30,active
+480,480,9,savings,RSD,904340.20,2024-01-07,active
+481,481,2,savings,RSD,1042660.03,2026-03-17,active
+482,482,2,foreign currency,RSD,477662.33,2021-08-22,active
+483,483,3,foreign currency,RSD,294772.85,2024-05-11,active
+484,484,9,checking,RSD,142736.74,2024-03-08,active
+485,485,3,savings,RSD,93192.47,2023-09-23,active
+486,486,1,foreign currency,RSD,442300.68,2025-09-04,active
+487,487,10,foreign currency,RSD,330464.66,2024-04-27,active
+488,488,1,savings,RSD,1328315.19,2022-09-24,active
+489,489,5,savings,RSD,458714.25,2022-04-02,active
+490,490,1,savings,RSD,321471.02,2026-06-21,active
+491,491,1,checking,RSD,362424.55,2025-10-14,inactive
+492,492,10,checking,RSD,464000.80,2025-04-03,active
+493,493,7,foreign currency,RSD,369674.60,2024-07-28,active
+494,494,2,savings,RSD,719545.90,2021-02-07,inactive
+495,495,6,checking,RSD,310137.95,2025-01-20,active
+496,496,9,checking,RSD,403458.64,2024-07-26,active
+497,497,1,checking,RSD,196700.38,2024-06-22,active
+498,498,1,savings,RSD,628444.72,2025-06-03,inactive
+499,499,3,savings,RSD,100131.82,2020-11-04,active
+500,500,6,checking,RSD,403511.68,2026-07-02,active
+501,1,4,checking,RSD,254571.95,2023-11-23,active
+502,2,1,checking,RSD,289671.27,2024-07-07,inactive
+503,3,7,checking,RSD,159165.40,2024-09-16,active
+504,4,6,savings,RSD,1421324.24,2025-03-17,active
+505,5,2,savings,RSD,643274.38,2025-06-14,inactive
+506,6,9,savings,RSD,1100554.05,2023-07-18,active
+507,7,10,savings,RSD,553280.30,2025-04-03,active
+508,8,3,checking,RSD,15471.08,2024-12-03,active
+509,9,7,savings,RSD,739826.83,2024-01-06,active
+510,10,1,savings,RSD,885527.03,2025-02-17,active
+511,11,3,checking,RSD,145670.59,2026-01-18,inactive
+512,12,6,checking,RSD,307723.90,2024-04-20,active
+513,13,2,savings,RSD,476148.60,2025-06-08,active
+514,14,4,checking,RSD,152035.87,2021-06-19,active
+515,15,8,savings,RSD,774609.82,2025-01-18,active
+516,16,9,checking,RSD,172825.47,2026-05-31,inactive
+517,17,8,checking,RSD,349798.38,2022-03-01,active
+518,18,7,checking,RSD,114215.07,2023-12-19,active
+519,19,1,foreign currency,RSD,83932.22,2022-11-11,active
+520,20,3,foreign currency,RSD,402058.32,2026-05-19,active
+521,21,8,savings,RSD,122788.44,2019-12-08,active
+522,22,8,savings,RSD,364451.96,2025-10-15,active
+523,23,7,savings,RSD,455347.07,2026-01-17,active
+524,24,8,foreign currency,RSD,426249.39,2024-03-30,active
+525,25,10,checking,RSD,248294.24,2024-09-28,active
+526,26,2,foreign currency,RSD,75714.20,2025-12-29,active
+527,27,7,foreign currency,RSD,98042.09,2024-03-25,active
+528,28,7,foreign currency,RSD,482793.39,2022-07-23,active
+529,29,1,checking,RSD,338441.38,2025-11-09,active
+530,30,9,savings,RSD,999481.07,2026-03-22,active
+531,31,3,checking,RSD,482334.45,2022-02-12,active
+532,32,8,checking,RSD,114038.00,2024-05-09,active
+533,33,7,foreign currency,RSD,243947.55,2022-08-31,active
+534,34,5,checking,RSD,497477.03,2023-08-23,active
+535,35,10,savings,RSD,351649.72,2024-01-22,active
+536,36,2,foreign currency,RSD,317734.96,2023-09-01,active
+537,37,1,checking,RSD,14725.19,2024-10-04,active
+538,38,5,checking,RSD,389654.46,2026-05-15,active
+539,39,10,savings,RSD,498343.18,2023-11-06,active
+540,40,7,savings,RSD,931673.18,2025-09-16,active
+541,41,1,checking,RSD,102867.13,2020-11-17,active
+542,42,6,checking,RSD,334418.94,2026-07-27,active
+543,43,8,savings,RSD,1064066.68,2022-12-15,inactive
+544,44,7,savings,RSD,581037.23,2022-09-30,active
+545,45,3,foreign currency,RSD,188694.64,2026-01-26,active
+546,46,7,checking,RSD,398083.83,2019-09-01,active
+547,47,6,checking,RSD,373708.77,2023-03-18,active
+548,48,9,savings,RSD,122281.45,2024-04-03,active
+549,49,8,checking,RSD,18083.38,2020-08-18,inactive
+550,50,10,checking,RSD,266138.07,2023-04-06,active
+551,51,3,checking,RSD,334935.10,2025-10-13,active
+552,52,1,savings,RSD,542793.50,2020-03-20,active
+553,53,7,savings,RSD,1447397.64,2024-09-24,active
+554,54,7,savings,RSD,211431.47,2026-02-09,inactive
+555,55,4,savings,RSD,1464497.96,2023-05-29,active
+556,56,1,savings,RSD,778198.90,2021-03-23,inactive
+557,57,1,foreign currency,RSD,324166.61,2025-03-19,active
+558,58,2,checking,RSD,152485.07,2026-06-23,active
+559,59,7,checking,RSD,45835.33,2025-11-08,active
+560,60,9,checking,RSD,185950.75,2026-02-23,active
+561,61,8,foreign currency,RSD,408197.46,2024-10-20,active
+562,62,10,checking,RSD,420879.08,2020-04-16,active
+563,63,6,savings,RSD,1291224.51,2026-07-10,active
+564,64,6,foreign currency,RSD,49132.57,2019-02-16,active
+565,65,9,checking,RSD,45314.89,2020-11-17,active
+566,66,3,savings,RSD,943019.00,2023-07-06,active
+567,67,7,foreign currency,RSD,389564.01,2024-09-26,active
+568,68,10,checking,RSD,121761.88,2024-09-30,active
+569,69,9,foreign currency,RSD,100846.04,2025-03-03,active
+570,70,2,savings,RSD,171853.60,2022-09-24,active
+571,71,4,checking,RSD,58278.77,2025-02-26,active
+572,72,4,checking,RSD,1919.84,2025-09-03,active
+573,73,1,checking,RSD,81553.02,2021-09-19,active
+574,74,6,checking,RSD,421947.33,2022-02-23,inactive
+575,75,9,checking,RSD,497912.21,2026-03-22,active
+576,76,2,foreign currency,RSD,83562.03,2023-05-07,active
+577,77,10,foreign currency,RSD,185931.06,2025-08-21,active
+578,78,2,foreign currency,RSD,438392.05,2023-10-03,active
+579,79,4,foreign currency,RSD,178874.76,2025-07-22,active
+580,80,6,foreign currency,RSD,101465.97,2026-06-26,active
+581,81,4,foreign currency,RSD,11783.72,2024-09-14,active
+582,82,4,foreign currency,RSD,282754.06,2024-12-02,active
+583,83,8,foreign currency,RSD,311038.09,2024-11-13,active
+584,84,4,savings,RSD,443514.78,2024-10-16,active
+585,85,10,savings,RSD,1341990.98,2020-11-24,active
+586,86,5,foreign currency,RSD,460935.46,2024-06-09,active
+587,87,6,foreign currency,RSD,464406.64,2025-03-05,active
+588,88,1,checking,RSD,140064.91,2025-03-20,active
+589,89,6,foreign currency,RSD,344976.58,2026-01-18,active
+590,90,1,foreign currency,RSD,193277.63,2022-10-11,inactive
+591,91,4,foreign currency,RSD,102516.80,2024-12-20,active
+592,92,10,foreign currency,RSD,258776.90,2024-03-17,active
+593,93,4,savings,RSD,1456198.22,2021-11-10,active
+594,94,6,foreign currency,RSD,117188.31,2026-05-17,active
+595,95,10,checking,RSD,354319.27,2025-03-10,active
+596,96,5,checking,RSD,196015.83,2025-12-04,active
+597,97,7,savings,RSD,632301.16,2025-02-03,active
+598,98,9,checking,RSD,245652.43,2020-10-04,active
+599,99,2,savings,RSD,1091420.24,2025-10-28,active
+600,100,6,checking,RSD,327568.35,2025-03-31,active
+601,101,9,savings,RSD,235287.23,2024-07-02,active
+602,102,6,savings,RSD,66699.10,2025-08-07,active
+603,103,2,savings,RSD,379574.44,2024-07-25,active
+604,104,9,foreign currency,RSD,318609.29,2024-07-03,active
+605,105,6,foreign currency,RSD,184389.63,2025-09-30,active
+606,106,4,checking,RSD,414654.46,2020-05-26,active
+607,107,1,savings,RSD,482163.33,2025-04-09,inactive
+608,108,10,savings,RSD,508312.82,2024-12-01,active
+609,109,6,savings,RSD,247073.72,2022-07-02,inactive
+610,110,9,savings,RSD,1055559.27,2018-08-12,active
+611,111,10,checking,RSD,155253.71,2026-07-21,active
+612,112,7,checking,RSD,422295.56,2022-09-26,active
+613,113,7,savings,RSD,737506.84,2024-09-13,active
+614,114,2,checking,RSD,196660.25,2022-07-22,active
+615,115,9,checking,RSD,466248.23,2021-10-20,active
+616,116,10,savings,RSD,1113119.52,2025-08-17,active
+617,117,6,checking,RSD,40224.94,2023-06-26,active
+618,118,1,foreign currency,RSD,442659.44,2024-04-08,active
+619,119,4,checking,RSD,80306.74,2025-07-17,active
+620,120,5,checking,RSD,77091.88,2022-03-18,active
+621,121,6,foreign currency,RSD,329318.58,2020-08-08,active
+622,122,3,savings,RSD,875441.52,2021-04-12,active
+623,123,2,checking,RSD,148286.73,2023-03-12,inactive
+624,124,1,savings,RSD,444406.62,2023-11-06,active
+625,125,1,checking,RSD,447112.04,2022-03-24,inactive
+626,126,4,savings,RSD,422053.51,2025-05-16,inactive
+627,127,6,foreign currency,RSD,279805.82,2022-11-06,active
+628,128,1,checking,RSD,415100.48,2025-03-25,active
+629,129,4,checking,RSD,288259.80,2025-01-22,active
+630,130,6,foreign currency,RSD,265288.55,2025-04-02,active
+631,131,6,foreign currency,RSD,187325.45,2025-04-03,active
+632,132,5,savings,RSD,705147.63,2020-09-10,active
+633,133,2,foreign currency,RSD,462167.47,2022-10-27,active
+634,134,10,savings,RSD,347384.16,2018-06-02,active
+635,135,10,savings,RSD,129435.75,2024-05-03,active
+636,136,9,foreign currency,RSD,157708.50,2025-04-08,active
+637,137,6,foreign currency,RSD,416881.04,2024-07-09,active
+638,138,5,savings,RSD,1006305.09,2025-06-27,active
+639,139,7,checking,RSD,242071.68,2024-03-15,active
+640,140,1,checking,RSD,148887.96,2026-03-03,active
+641,141,10,foreign currency,RSD,238451.85,2022-09-25,inactive
+642,142,2,checking,RSD,419794.53,2022-01-14,active
+643,143,2,checking,RSD,85128.56,2022-01-06,active
+644,144,9,savings,RSD,1101228.39,2023-06-01,active
+645,145,5,checking,RSD,53695.29,2020-12-25,active
+646,146,7,checking,RSD,173486.90,2025-01-07,active
+647,147,8,checking,RSD,443690.63,2026-05-01,active
+648,148,3,savings,RSD,82618.59,2025-05-10,active
+649,149,1,savings,RSD,1024357.63,2024-05-31,active
+650,150,5,checking,RSD,373465.38,2026-07-01,active
+651,151,1,savings,RSD,349007.18,2024-12-10,inactive
+652,152,1,checking,RSD,469650.19,2021-12-24,active
+653,153,7,checking,RSD,430474.62,2025-10-26,closed
+654,154,1,savings,RSD,144154.50,2024-10-15,active
+655,155,10,foreign currency,RSD,87817.81,2021-09-21,active
+656,156,2,checking,RSD,356377.93,2021-09-21,active
+657,157,5,foreign currency,RSD,461717.36,2021-05-15,active
+658,158,10,foreign currency,RSD,370010.47,2022-04-06,active
+659,159,9,foreign currency,RSD,472915.37,2025-12-22,active
+660,160,5,foreign currency,RSD,16671.23,2026-07-14,active
+661,161,10,foreign currency,RSD,316288.61,2026-05-01,active
+662,162,7,checking,RSD,270333.49,2025-07-07,active
+663,163,7,foreign currency,RSD,13803.67,2026-03-02,active
+664,164,2,savings,RSD,527866.19,2023-04-12,active
+665,165,2,savings,RSD,928755.54,2023-05-25,active
+666,166,8,foreign currency,RSD,399526.16,2021-09-10,inactive
+667,167,2,savings,RSD,347330.66,2024-12-10,inactive
+668,168,4,checking,RSD,234313.38,2023-07-02,active
+669,169,4,foreign currency,RSD,320401.72,2024-01-17,active
+670,170,7,savings,RSD,838136.12,2023-08-06,active
+671,171,8,foreign currency,RSD,174012.38,2025-10-14,active
+672,172,2,savings,RSD,558806.56,2023-10-19,inactive
+673,173,4,foreign currency,RSD,483214.22,2024-09-10,inactive
+674,174,6,checking,RSD,122520.57,2023-05-02,active
+675,175,7,foreign currency,RSD,424025.85,2024-11-26,active
+676,176,4,foreign currency,RSD,77260.82,2021-10-25,active
+677,177,8,savings,RSD,583808.81,2023-09-08,active
+678,178,10,checking,RSD,114326.52,2024-11-06,active
+679,179,3,checking,RSD,296886.70,2023-08-09,active
+680,180,5,savings,RSD,591847.99,2026-07-25,inactive
+681,181,5,checking,RSD,482305.15,2025-02-26,active
+682,182,2,savings,RSD,971378.87,2018-06-22,active
+683,183,9,savings,RSD,285983.34,2025-08-15,active
+684,184,4,checking,RSD,387982.98,2020-11-21,active
+685,185,10,foreign currency,RSD,370387.59,2021-04-17,active
+686,186,5,savings,RSD,1266754.22,2021-12-13,active
+687,187,2,foreign currency,RSD,319665.54,2021-03-02,active
+688,188,1,foreign currency,RSD,335534.08,2021-03-06,active
+689,189,1,savings,RSD,619198.43,2024-09-24,active
+690,190,1,foreign currency,RSD,187177.70,2026-08-01,active
+691,191,6,foreign currency,RSD,24711.62,2021-02-13,active
+692,192,10,foreign currency,RSD,197616.79,2018-03-08,active
+693,193,5,savings,RSD,285085.51,2024-11-13,active
+694,194,5,checking,RSD,90947.58,2021-02-17,active
+695,195,9,savings,RSD,1433586.27,2021-08-03,active
+696,196,7,checking,RSD,172435.63,2022-12-08,active
+697,197,4,checking,RSD,181872.42,2020-02-18,active
+698,198,5,savings,RSD,676550.78,2021-04-24,active
+699,199,3,savings,RSD,795501.66,2021-05-29,active
+700,200,6,foreign currency,RSD,138185.90,2023-09-17,active
+701,201,8,savings,RSD,90634.84,2025-10-17,active
+702,202,6,checking,RSD,174121.22,2022-12-09,active
+703,203,8,foreign currency,RSD,460657.70,2023-04-15,closed
+704,204,2,foreign currency,RSD,177077.23,2025-11-22,active
+705,205,9,foreign currency,RSD,80242.02,2026-05-13,inactive
+706,206,9,foreign currency,RSD,15771.83,2024-07-21,active
+707,207,4,foreign currency,RSD,461973.82,2021-10-10,active
+708,208,10,savings,RSD,1280430.12,2024-10-13,active
+709,209,3,foreign currency,RSD,308862.50,2026-07-18,active
+710,210,7,checking,RSD,264243.89,2024-03-18,active
+711,211,3,savings,RSD,1477231.85,2025-07-31,active
+712,212,2,checking,RSD,148114.56,2022-03-24,active
+713,213,1,foreign currency,RSD,130330.07,2024-06-14,active
+714,214,8,checking,RSD,129936.38,2024-10-06,active
+715,215,4,checking,RSD,434137.57,2023-03-27,active
+716,216,7,foreign currency,RSD,155978.35,2026-02-01,active
+717,217,1,checking,RSD,468506.98,2026-05-18,active
+718,218,10,savings,RSD,1401422.10,2026-03-16,inactive
+719,219,8,checking,RSD,243315.74,2025-03-30,active
+720,220,9,checking,RSD,154073.34,2019-04-06,active
+721,221,3,savings,RSD,1192423.29,2023-07-05,active
+722,222,5,checking,RSD,321519.71,2026-03-13,active
+723,223,10,savings,RSD,653836.30,2021-09-06,active
+724,224,1,checking,RSD,131040.70,2023-08-02,active
+725,225,3,foreign currency,RSD,178093.18,2023-08-20,inactive
+726,226,6,savings,RSD,1003799.82,2025-11-12,active
+727,227,7,savings,RSD,1442939.17,2026-02-13,active
+728,228,10,savings,RSD,1170783.49,2023-08-16,active
+729,229,10,checking,RSD,341284.93,2023-04-07,active
+730,230,8,checking,RSD,4660.80,2025-04-17,active
+731,231,9,savings,RSD,357013.27,2025-07-22,active
+732,232,10,foreign currency,RSD,187750.01,2026-01-07,active
+733,233,8,foreign currency,RSD,134179.49,2025-04-02,active
+734,234,1,checking,RSD,413648.01,2022-06-22,active
+735,235,9,savings,RSD,132754.94,2022-05-02,active
+736,236,2,savings,RSD,1039659.50,2024-05-13,active
+737,237,8,foreign currency,RSD,349638.33,2022-08-21,active
+738,238,7,checking,RSD,310971.17,2025-07-02,inactive
+739,239,9,checking,RSD,142571.01,2023-04-28,active
+740,240,2,savings,RSD,506427.42,2025-10-13,active
+741,241,4,checking,RSD,51856.65,2023-01-14,active
+742,242,7,savings,RSD,715493.72,2026-03-14,inactive
+743,243,8,checking,RSD,319851.45,2024-04-23,active
+744,244,2,savings,RSD,553054.18,2022-09-02,active
+745,245,1,foreign currency,RSD,252515.65,2025-02-25,active
+746,246,1,savings,RSD,1377998.32,2024-08-24,active
+747,247,4,savings,RSD,264122.54,2021-11-29,active
+748,248,6,foreign currency,RSD,7896.47,2026-07-30,active
+749,249,2,foreign currency,RSD,78681.99,2025-04-29,active
+750,250,10,savings,RSD,1062577.72,2025-03-22,inactive
+751,251,2,foreign currency,RSD,43231.41,2022-10-15,active
+752,252,10,foreign currency,RSD,208589.40,2025-05-23,active
+753,253,2,foreign currency,RSD,395956.91,2022-10-23,active
+754,254,1,checking,RSD,169938.30,2025-10-17,active
+755,255,6,foreign currency,RSD,316812.75,2026-01-06,active
+756,256,2,foreign currency,RSD,298355.45,2024-11-01,active
+757,257,1,checking,RSD,165967.85,2025-09-28,active
+758,258,9,checking,RSD,350342.29,2025-11-10,inactive
+759,259,2,foreign currency,RSD,491825.61,2023-01-03,active
+760,260,9,foreign currency,RSD,299885.13,2026-06-15,active
+761,261,10,checking,RSD,324401.11,2025-05-22,active
+762,262,10,savings,RSD,304362.19,2024-12-05,active
+763,263,6,foreign currency,RSD,149623.96,2025-10-06,active
+764,264,8,checking,RSD,231569.79,2022-06-02,active
+765,265,1,foreign currency,RSD,42370.89,2026-05-25,active
+766,266,7,checking,RSD,293232.81,2023-02-19,active
+767,267,2,savings,RSD,499134.75,2025-10-19,active
+768,268,7,checking,RSD,51599.54,2022-11-11,active
+769,269,2,foreign currency,RSD,107826.38,2025-05-23,active
+770,270,9,foreign currency,RSD,413186.04,2026-05-14,inactive
+771,271,1,savings,RSD,408835.93,2022-11-07,active
+772,272,8,checking,RSD,272987.54,2025-12-31,active
+773,273,2,foreign currency,RSD,312046.30,2020-03-19,active
+774,274,5,foreign currency,RSD,198270.25,2023-05-28,inactive
+775,275,6,checking,RSD,191893.69,2018-04-28,inactive
+776,276,4,foreign currency,RSD,57122.87,2023-01-09,active
+777,277,8,savings,RSD,431622.66,2025-05-05,active
+778,278,9,savings,RSD,922052.11,2022-02-10,active
+779,279,5,checking,RSD,28227.46,2024-06-24,active
+780,280,5,foreign currency,RSD,430308.16,2023-11-25,active
+781,281,3,savings,RSD,1331495.40,2024-09-13,inactive
+782,282,6,checking,RSD,189633.22,2026-05-23,active
+783,283,2,foreign currency,RSD,249405.62,2024-07-02,active
+784,284,4,savings,RSD,299500.99,2023-08-26,active
+785,285,6,foreign currency,RSD,458040.17,2026-07-08,active
+786,286,1,foreign currency,RSD,10711.98,2023-05-25,active
+787,287,6,checking,RSD,169737.08,2024-11-12,active
+788,288,5,foreign currency,RSD,453464.21,2023-09-04,active
+789,289,1,checking,RSD,456260.00,2025-01-24,active
+790,290,6,checking,RSD,471249.35,2026-06-07,active
+791,291,8,checking,RSD,234078.40,2022-09-10,active
+792,292,5,savings,RSD,55864.97,2023-09-24,active
+793,293,2,foreign currency,RSD,344693.47,2022-06-02,active
+794,294,1,savings,RSD,133171.86,2024-03-11,active
+795,295,4,savings,RSD,330132.48,2025-02-01,active
+796,296,8,checking,RSD,31231.18,2022-04-10,active
+797,297,5,checking,RSD,438507.73,2026-05-19,active
+798,298,6,savings,RSD,643180.14,2023-02-11,active
+799,299,8,savings,RSD,130724.10,2024-11-06,active
+800,300,7,savings,RSD,809192.78,2025-08-10,active
+801,301,1,checking,RSD,472690.63,2026-04-14,active
+802,302,1,foreign currency,RSD,496318.20,2023-04-10,active
+803,303,10,savings,RSD,154521.40,2024-08-26,active
+804,304,9,foreign currency,RSD,79634.87,2026-05-13,active
+805,305,3,savings,RSD,1025624.46,2023-03-02,active
+806,306,8,checking,RSD,227404.77,2023-05-30,active
+807,307,4,checking,RSD,212514.60,2025-05-08,active
+808,308,3,savings,RSD,1103449.65,2025-12-20,active
+809,309,3,savings,RSD,301320.02,2021-12-15,active
+810,310,9,checking,RSD,397600.82,2022-07-16,active
+811,311,2,checking,RSD,305425.84,2024-09-17,active
+812,312,3,checking,RSD,347870.00,2026-06-03,active
+813,313,7,savings,RSD,106945.67,2022-04-12,active
+814,314,10,savings,RSD,1346569.02,2021-09-30,inactive
+815,315,7,foreign currency,RSD,40567.16,2025-10-10,active
+816,316,9,foreign currency,RSD,26160.09,2021-12-11,inactive
+817,317,7,checking,RSD,135296.23,2022-03-05,active
+818,318,2,foreign currency,RSD,226250.66,2021-07-14,active
+819,319,7,savings,RSD,662166.58,2026-07-25,active
+820,320,7,checking,RSD,436484.79,2025-06-29,active
+821,321,10,checking,RSD,398860.50,2026-06-19,active
+822,322,6,savings,RSD,143694.02,2024-02-06,active
+823,323,7,checking,RSD,140536.71,2020-11-06,active
+824,324,5,savings,RSD,804956.83,2022-11-28,inactive
+825,325,3,savings,RSD,737690.63,2023-08-13,active
+826,326,7,savings,RSD,1234578.70,2025-10-31,active
+827,327,5,foreign currency,RSD,300725.22,2024-05-04,inactive
+828,328,10,savings,RSD,803882.39,2021-11-04,active
+829,329,9,checking,RSD,181098.43,2026-04-26,active
+830,330,3,checking,RSD,483574.04,2023-10-16,active
+831,331,3,foreign currency,RSD,402820.41,2024-04-15,inactive
+832,332,10,checking,RSD,264504.69,2023-11-05,active
+833,333,4,checking,RSD,45809.79,2022-05-20,active
+834,334,4,checking,RSD,22384.51,2018-11-25,active
+835,335,10,savings,RSD,1007685.76,2019-09-02,active
+836,336,10,foreign currency,RSD,20291.60,2025-11-11,active
+837,337,9,checking,RSD,422803.24,2025-03-15,active
+838,338,4,checking,RSD,239434.04,2021-09-13,active
+839,339,4,savings,RSD,1400088.44,2025-04-05,active
+840,340,8,foreign currency,RSD,414004.97,2025-07-28,active
+841,341,6,checking,RSD,49705.30,2019-08-07,active
+842,342,6,savings,RSD,940340.02,2025-05-06,active
+843,343,1,foreign currency,RSD,417554.51,2023-05-26,active
+844,344,10,foreign currency,RSD,6984.14,2025-07-22,active
+845,345,2,checking,RSD,110699.00,2025-05-18,active
+846,346,1,foreign currency,RSD,2642.25,2025-07-23,active
+847,347,2,foreign currency,RSD,124818.50,2026-03-01,active
+848,348,7,foreign currency,RSD,378741.43,2024-11-11,active
+849,349,5,savings,RSD,1492699.65,2023-10-10,inactive
+850,350,2,foreign currency,RSD,388249.71,2025-09-23,active
+851,351,3,foreign currency,RSD,301746.76,2022-09-12,active
+852,352,7,foreign currency,RSD,454056.26,2021-11-03,active
+853,353,8,savings,RSD,135664.18,2024-06-12,active
+854,354,1,savings,RSD,480526.28,2023-02-12,active
+855,355,7,checking,RSD,13796.64,2024-12-07,active
+856,356,2,savings,RSD,1012303.93,2022-05-29,active
+857,357,6,savings,RSD,1373359.77,2021-11-12,active
+858,358,7,savings,RSD,1334083.30,2023-07-18,active
+859,359,1,savings,RSD,262828.44,2025-03-29,active
+860,360,6,checking,RSD,90961.45,2025-08-28,active
+861,361,5,foreign currency,RSD,148785.83,2024-10-12,active
+862,362,6,checking,RSD,248825.25,2026-05-06,active
+863,363,7,foreign currency,RSD,128040.82,2025-08-04,active
+864,364,4,savings,RSD,502130.82,2021-08-17,active
+865,365,5,savings,RSD,1049337.07,2020-11-25,active
+866,366,7,savings,RSD,252152.23,2019-10-06,active
+867,367,1,checking,RSD,340377.27,2024-06-08,active
+868,368,5,checking,RSD,422886.42,2026-04-19,active
+869,369,4,foreign currency,RSD,10876.71,2022-11-25,active
+870,370,7,foreign currency,RSD,312552.51,2024-04-06,active
+871,371,6,savings,RSD,231828.60,2022-04-17,active
+872,372,6,foreign currency,RSD,426848.23,2022-04-19,active
+873,373,2,savings,RSD,1123811.34,2023-11-08,active
+874,374,4,foreign currency,RSD,109744.48,2021-08-31,active
+875,375,10,checking,RSD,411660.20,2018-07-22,active
+876,376,1,checking,RSD,449605.35,2023-10-23,active
+877,377,6,checking,RSD,300548.57,2025-11-11,active
+878,378,1,savings,RSD,403735.23,2024-08-07,inactive
+879,379,9,savings,RSD,753602.25,2021-07-17,active
+880,380,7,checking,RSD,221075.22,2023-05-05,active
+881,381,4,savings,RSD,568374.16,2022-09-08,active
+882,382,6,foreign currency,RSD,437838.72,2019-12-13,active
+883,383,8,savings,RSD,650947.21,2019-12-28,active
+884,384,10,checking,RSD,360724.90,2026-07-29,active
+885,385,1,checking,RSD,261181.21,2023-11-26,inactive
+886,386,1,foreign currency,RSD,136508.18,2025-05-22,active
+887,387,8,savings,RSD,618330.83,2025-11-20,inactive
+888,388,9,savings,RSD,1246836.35,2026-01-21,active
+889,389,3,foreign currency,RSD,337844.46,2025-03-09,active
+890,390,5,checking,RSD,3067.91,2026-02-01,active
+891,391,7,checking,RSD,478686.34,2025-07-28,active
+892,392,1,checking,RSD,31202.01,2026-04-20,active
+893,393,6,checking,RSD,89300.86,2024-03-21,inactive
+894,394,8,foreign currency,RSD,459113.68,2024-06-26,active
+895,395,4,checking,RSD,459027.84,2023-04-28,inactive
+896,396,9,foreign currency,RSD,350601.96,2024-05-08,inactive
+897,397,3,checking,RSD,181411.42,2024-06-07,active
+898,398,4,savings,RSD,970748.77,2026-02-20,active
+899,399,2,checking,RSD,87602.39,2025-02-09,active
+900,400,8,savings,RSD,288856.93,2024-08-02,active
+901,401,2,savings,RSD,835904.35,2025-06-25,active
+902,402,6,savings,RSD,155044.98,2020-04-06,active
+903,403,3,savings,RSD,68096.87,2025-03-27,active
+904,404,10,checking,RSD,112894.63,2021-06-17,active
+905,405,2,savings,RSD,798616.53,2022-06-12,active
+906,406,1,checking,RSD,466512.76,2026-01-08,active
+907,407,3,savings,RSD,1391999.09,2025-09-11,active
+908,408,5,savings,RSD,405879.59,2026-01-05,active
+909,409,5,foreign currency,RSD,213939.83,2024-09-24,active
+910,410,10,checking,RSD,244341.54,2026-01-17,inactive
+911,411,7,checking,RSD,433155.87,2024-07-22,active
+912,412,1,checking,RSD,37235.48,2022-12-04,active
+913,413,10,savings,RSD,720422.18,2023-07-31,inactive
+914,414,9,foreign currency,RSD,75035.70,2024-08-01,active
+915,415,4,foreign currency,RSD,37838.04,2023-08-01,active
+916,416,3,savings,RSD,335105.68,2025-11-25,active
+917,417,10,checking,RSD,352956.45,2022-02-24,active
+918,418,7,checking,RSD,36173.02,2023-01-03,active
+919,419,7,savings,RSD,694826.56,2022-07-26,inactive
+920,420,6,foreign currency,RSD,162425.49,2021-12-29,active
+921,421,9,foreign currency,RSD,39551.96,2025-11-22,inactive
+922,422,5,foreign currency,RSD,356060.92,2025-03-10,active
+923,423,8,foreign currency,RSD,3705.56,2022-01-21,active
+924,424,9,foreign currency,RSD,5521.68,2021-06-15,closed
+925,425,3,savings,RSD,930555.94,2024-09-14,active
+926,426,2,foreign currency,RSD,383151.89,2024-06-18,active
+927,427,2,foreign currency,RSD,130439.60,2026-02-27,active
+928,428,4,checking,RSD,70882.52,2023-09-26,active
+929,429,4,checking,RSD,433495.36,2022-07-10,active
+930,430,8,checking,RSD,411943.99,2022-11-24,active
+931,431,6,foreign currency,RSD,39440.25,2024-06-16,active
+932,432,5,checking,RSD,112514.78,2022-06-07,active
+933,433,1,foreign currency,RSD,372705.73,2023-06-24,active
+934,434,5,foreign currency,RSD,266904.78,2023-05-11,active
+935,435,1,checking,RSD,228768.84,2022-02-07,active
+936,436,2,checking,RSD,468766.69,2023-06-16,active
+937,437,4,checking,RSD,127273.12,2025-04-28,active
+938,438,10,foreign currency,RSD,184945.34,2025-05-06,inactive
+939,439,5,savings,RSD,172664.85,2025-12-25,active
+940,440,3,foreign currency,RSD,300054.71,2026-04-06,active
+941,441,9,foreign currency,RSD,327577.97,2021-04-25,active
+942,442,7,checking,RSD,290370.65,2022-08-04,active
+943,443,6,savings,RSD,107283.48,2021-09-01,active
+944,444,8,savings,RSD,1495566.14,2026-02-11,active
+945,445,1,checking,RSD,497880.15,2025-08-10,active
+946,446,2,foreign currency,RSD,84737.79,2024-07-11,active
+947,447,2,checking,RSD,126148.78,2023-05-04,active
+948,448,3,foreign currency,RSD,130764.52,2021-01-09,active
+949,449,10,savings,RSD,957174.58,2023-05-01,active
+950,450,9,foreign currency,RSD,78368.95,2022-04-26,active
+951,451,5,foreign currency,RSD,438843.05,2026-03-12,active
+952,452,3,checking,RSD,318874.90,2023-12-15,active
+953,453,3,foreign currency,RSD,24188.78,2021-09-09,active
+954,454,5,checking,RSD,452869.93,2024-06-10,inactive
+955,455,9,checking,RSD,186671.45,2025-01-15,active
+956,456,2,checking,RSD,119389.33,2020-02-29,active
+957,457,9,checking,RSD,160443.03,2024-12-07,active
+958,458,4,savings,RSD,492703.89,2023-05-08,active
+959,459,2,savings,RSD,1206406.15,2025-03-30,active
+960,460,8,checking,RSD,39531.75,2026-06-11,active
+961,461,4,savings,RSD,1478899.23,2021-01-08,active
+962,462,7,checking,RSD,76835.58,2024-09-29,active
+963,463,8,savings,RSD,1426239.18,2024-11-12,active
+964,464,7,foreign currency,RSD,175203.52,2021-03-31,active
+965,465,6,savings,RSD,723368.34,2024-04-07,active
+966,466,4,savings,RSD,1229434.18,2024-05-07,active
+967,467,10,checking,RSD,122213.96,2022-12-11,active
+968,468,10,foreign currency,RSD,448210.86,2024-09-16,active
+969,469,3,foreign currency,RSD,287388.52,2025-06-24,active
+970,470,7,foreign currency,RSD,379282.61,2018-12-30,active
+971,471,3,savings,RSD,1044651.89,2022-12-28,active
+972,472,5,foreign currency,RSD,402762.15,2025-11-11,active
+973,473,9,foreign currency,RSD,410356.12,2025-10-12,active
+974,474,10,foreign currency,RSD,464068.34,2019-05-13,active
+975,475,3,checking,RSD,292052.48,2018-09-03,active
+976,476,5,savings,RSD,1133424.57,2024-11-15,active
+977,477,2,foreign currency,RSD,471605.67,2020-01-20,active
+978,478,7,foreign currency,RSD,323155.55,2026-07-11,active
+979,479,1,savings,RSD,1394821.61,2024-10-04,active
+980,480,7,checking,RSD,99519.62,2024-01-09,active
+981,481,6,foreign currency,RSD,361362.84,2023-07-31,active
+982,482,2,foreign currency,RSD,147214.14,2025-03-23,active
+983,483,6,savings,RSD,961783.14,2022-09-27,active
+984,484,4,foreign currency,RSD,378985.27,2022-01-11,active
+985,485,6,checking,RSD,422404.59,2023-04-10,active
+986,486,4,savings,RSD,472853.43,2025-03-16,active
+987,487,8,foreign currency,RSD,444816.30,2025-02-18,inactive
+988,488,2,savings,RSD,757325.74,2025-05-31,active
+989,489,8,checking,RSD,382004.14,2022-10-24,active
+990,490,6,checking,RSD,368053.18,2025-02-22,active
+991,491,8,checking,RSD,333170.77,2022-10-16,active
+992,492,1,savings,RSD,1364949.42,2026-07-09,active
+993,493,7,foreign currency,RSD,156339.88,2023-09-12,active
+994,494,5,checking,RSD,204872.97,2022-07-25,active
+995,495,5,foreign currency,RSD,346887.38,2025-06-12,active
+996,496,5,savings,RSD,669544.01,2023-11-09,active
+997,497,1,savings,RSD,190841.29,2022-10-03,active
+998,498,2,savings,RSD,943708.07,2019-11-04,active
+999,499,1,checking,RSD,291006.99,2025-10-03,active
+1000,500,1,checking,RSD,344875.64,2021-05-13,active
+2001,1,1,foreign currency,RSD,497936.46,2023-12-18,active
+2002,2,1,savings,RSD,1145907.72,2023-06-17,active
+2003,3,1,savings,RSD,668893.04,2025-03-11,active
+2004,4,2,foreign currency,RSD,233982.68,2025-08-26,active
+2005,5,4,savings,RSD,1103675.85,2022-09-08,active
+2006,6,6,foreign currency,RSD,3313.98,2022-05-11,active
+2007,7,5,foreign currency,RSD,351096.54,2025-02-23,active
+2008,8,3,foreign currency,RSD,187595.92,2025-01-21,active
+2009,9,10,checking,RSD,57450.50,2026-03-12,active
+2010,10,6,savings,RSD,480520.98,2025-01-30,active
+2011,11,3,checking,RSD,183130.76,2023-07-12,active
+2012,12,1,checking,RSD,467694.28,2026-01-26,inactive
+2013,13,10,foreign currency,RSD,272516.06,2026-02-18,active
+2014,14,10,foreign currency,RSD,116286.74,2022-07-26,active
+2015,15,5,foreign currency,RSD,264492.86,2021-07-31,active
+2016,16,4,savings,RSD,226797.87,2025-11-13,active
+2017,17,9,savings,RSD,1494055.42,2024-07-24,active
+2018,18,9,checking,RSD,496264.40,2023-06-09,active
+2019,19,2,foreign currency,RSD,309733.18,2022-05-12,active
+2020,20,6,foreign currency,RSD,162667.92,2022-05-28,active
+2021,21,7,checking,RSD,388508.25,2022-02-26,active
+2022,22,1,foreign currency,RSD,269184.11,2025-05-06,active
+2023,23,2,savings,RSD,930161.34,2022-05-22,active
+2024,24,1,checking,RSD,113241.95,2021-05-29,inactive
+2025,25,1,checking,RSD,307524.25,2025-09-05,active
+2026,26,1,savings,RSD,921410.89,2024-08-02,active
+2027,27,8,checking,RSD,365401.86,2023-01-14,active
+2028,28,6,savings,RSD,862107.95,2025-02-13,active
+2029,29,4,foreign currency,RSD,438505.02,2022-02-02,active
+2030,30,2,savings,RSD,823547.10,2024-01-29,active
+2031,31,7,foreign currency,RSD,487033.29,2023-09-01,inactive
+2032,32,2,savings,RSD,1228524.10,2026-06-17,active
+2033,33,3,checking,RSD,455893.72,2021-09-11,active
+2034,34,9,foreign currency,RSD,446833.20,2020-05-27,active
+2035,35,7,checking,RSD,58675.30,2023-07-07,active
+2036,36,5,savings,RSD,1497259.78,2023-10-11,active
+2037,37,5,checking,RSD,50672.72,2024-10-11,active
+2038,38,1,foreign currency,RSD,352968.81,2025-07-23,active
+2039,39,7,checking,RSD,246411.63,2024-09-14,active
+2040,40,6,foreign currency,RSD,243620.30,2025-08-17,active
+2041,41,6,savings,RSD,436810.53,2026-04-11,active
+2042,42,5,savings,RSD,624979.51,2025-02-28,active
+2043,43,6,checking,RSD,487680.22,2026-05-14,active
+2044,44,5,foreign currency,RSD,392798.22,2024-08-28,active
+2045,45,5,checking,RSD,436220.56,2026-04-11,active
+2046,46,3,savings,RSD,313470.41,2022-07-06,active
+2047,47,10,foreign currency,RSD,264205.59,2026-07-21,active
+2048,48,3,checking,RSD,455170.82,2023-03-14,active
+2049,49,9,savings,RSD,1263135.50,2020-03-31,active
+2050,50,8,checking,RSD,274957.69,2021-07-08,active
+2051,51,5,foreign currency,RSD,400144.83,2023-05-20,active
+2052,52,5,checking,RSD,374884.13,2022-10-15,inactive
+2053,53,10,checking,RSD,273389.95,2024-10-04,active
+2054,54,7,savings,RSD,161278.30,2025-10-02,active
+2055,55,2,foreign currency,RSD,29555.06,2024-01-30,active
+2056,56,6,foreign currency,RSD,262747.21,2023-07-24,active
+2057,57,2,checking,RSD,443323.29,2022-06-10,active
+2058,58,9,checking,RSD,348123.30,2025-02-20,active
+2059,59,1,foreign currency,RSD,460224.36,2021-10-04,active
+2060,60,4,foreign currency,RSD,274996.12,2023-09-20,active
+2061,61,3,savings,RSD,80363.87,2024-01-03,active
+2062,62,1,foreign currency,RSD,409240.55,2026-03-17,active
+2063,63,2,savings,RSD,1142417.76,2024-04-21,active
+2064,64,7,savings,RSD,1127954.06,2024-10-31,active
+2065,65,1,checking,RSD,184619.42,2022-03-19,active
+2066,66,4,checking,RSD,260804.89,2023-05-17,active
+2067,67,2,savings,RSD,193713.56,2023-03-10,active
+2068,68,8,savings,RSD,294146.43,2025-10-22,active
+2069,69,1,foreign currency,RSD,194246.43,2024-05-14,inactive
+2070,70,6,checking,RSD,357861.29,2020-07-03,active
+2071,71,1,checking,RSD,85036.52,2024-07-05,active
+2072,72,6,checking,RSD,333299.97,2025-03-26,active
+2073,73,9,savings,RSD,1162652.39,2024-05-30,active
+2074,74,4,foreign currency,RSD,7832.53,2023-11-09,active
+2075,75,6,checking,RSD,253285.73,2020-12-03,active
+2076,76,10,savings,RSD,457956.01,2019-11-03,inactive
+2077,77,2,savings,RSD,688066.11,2026-07-15,active
+2078,78,1,checking,RSD,130115.19,2024-02-25,active
+2079,79,7,foreign currency,RSD,276675.38,2024-09-01,active
+2080,80,9,foreign currency,RSD,249156.25,2022-07-11,active
+2081,81,3,savings,RSD,400529.68,2025-11-09,active
+2082,82,7,foreign currency,RSD,468766.22,2021-06-04,inactive
+2083,83,4,checking,RSD,405587.02,2024-04-10,active
+2084,84,6,savings,RSD,89594.19,2023-04-22,active
+2085,85,4,foreign currency,RSD,172310.44,2025-03-14,active
+2086,86,5,checking,RSD,454253.37,2025-04-23,active
+2087,87,2,checking,RSD,306525.79,2025-09-04,active
+2088,88,5,checking,RSD,177896.58,2024-09-16,active
+2089,89,7,savings,RSD,417103.39,2026-04-07,active
+2090,90,3,foreign currency,RSD,453399.95,2023-12-01,active
+2091,91,4,savings,RSD,970549.00,2024-04-30,active
+2092,92,5,checking,RSD,323377.72,2025-02-28,active
+2093,93,7,checking,RSD,173347.11,2021-08-22,active
+2094,94,1,foreign currency,RSD,435014.31,2024-08-20,active
+2095,95,6,savings,RSD,557409.55,2022-12-26,active
+2096,96,10,foreign currency,RSD,264943.54,2021-04-14,active
+2097,97,2,savings,RSD,1466030.88,2024-09-21,active
+2098,98,3,savings,RSD,408400.43,2022-12-26,active
+2099,99,8,checking,RSD,247630.04,2025-03-26,active
+2100,100,3,savings,RSD,532154.50,2025-01-22,active
+2101,101,3,checking,RSD,393031.29,2023-04-24,active
+2102,102,7,savings,RSD,1245197.43,2025-01-08,active
+2103,103,7,savings,RSD,1023837.77,2024-11-20,inactive
+2104,104,1,foreign currency,RSD,302910.78,2026-03-10,active
+2105,105,10,checking,RSD,288299.65,2022-09-29,active
+2106,106,7,checking,RSD,493582.16,2020-08-06,active
+2107,107,3,savings,RSD,762235.30,2025-09-12,active
+2108,108,6,checking,RSD,22819.61,2021-01-06,active
+2109,109,6,savings,RSD,620241.47,2025-10-06,inactive
+2110,110,2,checking,RSD,88626.90,2018-08-21,active
+2111,111,6,checking,RSD,358018.64,2024-03-21,active
+2112,112,9,foreign currency,RSD,146100.07,2025-05-29,active
+2113,113,6,checking,RSD,126301.26,2026-06-20,active
+2114,114,8,savings,RSD,625612.06,2022-06-23,inactive
+2115,115,6,foreign currency,RSD,363130.88,2025-05-30,active
+2116,116,7,checking,RSD,281683.21,2025-08-31,active
+2117,117,6,foreign currency,RSD,84414.27,2025-08-31,active
+2118,118,1,checking,RSD,456765.75,2026-01-03,active
+2119,119,5,savings,RSD,579467.73,2025-05-24,active
+2120,120,6,savings,RSD,947976.73,2023-01-23,inactive
+2121,121,10,foreign currency,RSD,151776.53,2022-12-07,active
+2122,122,5,checking,RSD,297957.30,2026-07-11,active
+2123,123,1,savings,RSD,636717.45,2025-06-09,active
+2124,124,5,savings,RSD,64177.59,2026-01-16,active
+2125,125,8,checking,RSD,373138.41,2025-04-18,active
+2126,126,1,checking,RSD,481039.12,2021-11-16,active
+2127,127,5,checking,RSD,95926.31,2022-08-01,active
+2128,128,6,foreign currency,RSD,153051.04,2020-09-25,active
+2129,129,7,savings,RSD,1249958.55,2026-03-25,active
+2130,130,1,savings,RSD,419682.69,2023-02-01,active
+2131,131,8,savings,RSD,677450.20,2025-01-11,active
+2132,132,9,savings,RSD,993357.61,2022-01-01,active
+2133,133,5,checking,RSD,24158.84,2023-10-17,active
+2134,134,10,checking,RSD,57212.28,2022-10-21,active
+2135,135,6,checking,RSD,186968.61,2025-12-23,active
+2136,136,9,savings,RSD,835099.85,2024-11-06,active
+2137,137,8,foreign currency,RSD,39135.74,2025-07-18,active
+2138,138,3,checking,RSD,185242.25,2025-07-27,active
+2139,139,5,checking,RSD,58379.23,2025-07-06,active
+2140,140,5,savings,RSD,1166893.41,2025-10-10,active
+2141,141,6,savings,RSD,213937.27,2026-02-04,inactive
+2142,142,8,savings,RSD,655331.60,2022-10-19,active
+2143,143,8,checking,RSD,79363.51,2025-07-16,active
+2144,144,4,foreign currency,RSD,227312.33,2023-04-13,active
+2145,145,8,savings,RSD,515756.13,2021-09-26,active
+2146,146,10,savings,RSD,688440.60,2024-01-04,active
+2147,147,9,foreign currency,RSD,446361.68,2024-01-04,active
+2148,148,6,foreign currency,RSD,489420.58,2024-05-17,active
+2149,149,3,savings,RSD,1006041.56,2023-11-03,active
+2150,150,7,foreign currency,RSD,222733.73,2025-02-06,active
+2151,151,2,checking,RSD,180432.21,2025-08-02,active
+2152,152,9,savings,RSD,639147.40,2023-06-17,active
+2153,153,10,savings,RSD,545858.36,2025-03-20,active
+2154,154,8,checking,RSD,463685.93,2024-01-25,active
+2155,155,3,savings,RSD,555119.97,2025-09-21,active
+2156,156,8,savings,RSD,556328.72,2025-02-04,active
+2157,157,9,foreign currency,RSD,1187.67,2021-10-28,active
+2158,158,10,foreign currency,RSD,357681.31,2022-02-03,active
+2159,159,10,foreign currency,RSD,244869.39,2025-03-08,inactive
+2160,160,9,foreign currency,RSD,173627.39,2025-02-15,active
+2161,161,6,savings,RSD,605708.72,2025-08-01,active
+2162,162,4,foreign currency,RSD,138315.02,2020-11-23,active
+2163,163,9,foreign currency,RSD,306688.59,2022-06-14,active
+2164,164,7,savings,RSD,63782.41,2025-06-24,active
+2165,165,1,foreign currency,RSD,415140.00,2022-09-18,active
+2166,166,4,checking,RSD,44071.86,2023-04-22,active
+2167,167,9,savings,RSD,1458074.10,2025-01-17,active
+2168,168,2,savings,RSD,440288.53,2024-11-21,inactive
+2169,169,1,checking,RSD,296054.22,2026-07-19,active
+2170,170,6,checking,RSD,105466.48,2025-04-05,active
+2171,171,7,foreign currency,RSD,120382.42,2019-05-27,active
+2172,172,4,savings,RSD,831477.99,2023-10-11,inactive
+2173,173,6,savings,RSD,102105.66,2025-11-30,active
+2174,174,6,savings,RSD,697485.49,2025-05-16,active
+2175,175,7,savings,RSD,1412117.92,2024-07-17,active
+2176,176,7,savings,RSD,878260.31,2020-10-22,active
+2177,177,7,checking,RSD,259113.71,2025-08-28,active
+2178,178,3,checking,RSD,343962.35,2023-11-01,active
+2179,179,7,checking,RSD,432497.49,2022-09-24,active
+2180,180,5,foreign currency,RSD,330519.59,2022-12-31,active
+2181,181,3,foreign currency,RSD,351696.46,2024-08-15,active
+2182,182,7,foreign currency,RSD,452152.16,2025-01-10,active
+2183,183,5,savings,RSD,74821.03,2025-02-10,active
+2184,184,8,foreign currency,RSD,384619.92,2020-06-13,active
+2185,185,10,checking,RSD,43694.84,2023-02-15,active
+2186,186,10,checking,RSD,249173.88,2023-01-01,inactive
+2187,187,3,savings,RSD,843150.18,2024-12-02,inactive
+2188,188,4,foreign currency,RSD,245269.12,2020-01-05,active
+2189,189,8,savings,RSD,448145.34,2026-01-03,active
+2190,190,1,checking,RSD,360822.28,2022-03-20,active
+2191,191,10,foreign currency,RSD,25841.23,2022-02-05,active
+2192,192,9,savings,RSD,1246031.78,2022-04-16,active
+2193,193,6,savings,RSD,54085.00,2023-06-28,active
+2194,194,10,savings,RSD,816554.04,2024-04-06,active
+2195,195,4,foreign currency,RSD,74034.31,2025-03-20,active
+2196,196,2,savings,RSD,213787.67,2025-08-09,active
+2197,197,2,foreign currency,RSD,242841.91,2023-02-10,active
+2198,198,2,savings,RSD,1494804.83,2021-03-31,active
+2199,199,3,foreign currency,RSD,273288.37,2021-12-05,active
+2200,200,7,savings,RSD,668034.42,2023-05-22,active
+2201,201,2,foreign currency,RSD,276934.20,2024-01-26,active
+2202,202,4,checking,RSD,271218.67,2020-06-05,active
+2203,203,8,checking,RSD,309920.85,2024-02-11,active
+2204,204,3,savings,RSD,811327.14,2026-02-28,active
+2205,205,3,savings,RSD,1133648.49,2025-03-03,active
+2206,206,8,checking,RSD,59787.34,2025-06-24,active
+2207,207,6,foreign currency,RSD,30871.39,2024-02-28,active
+2208,208,9,savings,RSD,1339997.52,2023-08-09,active
+2209,209,3,savings,RSD,566987.57,2024-08-03,active
+2210,210,2,checking,RSD,120534.54,2025-07-13,active
+2211,211,3,savings,RSD,685845.34,2024-04-20,active
+2212,212,5,checking,RSD,86321.78,2020-11-18,active
+2213,213,10,savings,RSD,413819.45,2026-02-15,active
+2214,214,2,checking,RSD,226004.51,2026-06-15,active
+2215,215,7,foreign currency,RSD,148930.46,2025-04-28,active
+2216,216,6,foreign currency,RSD,312410.08,2025-09-22,active
+2217,217,1,checking,RSD,337851.17,2026-07-16,active
+2218,218,5,checking,RSD,78010.85,2021-12-28,active
+2219,219,1,savings,RSD,1107151.93,2025-03-17,active
+2220,220,1,foreign currency,RSD,94163.79,2026-02-01,active
+2221,221,3,checking,RSD,41051.59,2024-08-18,active
+2222,222,5,checking,RSD,409597.63,2024-03-06,active
+2223,223,4,checking,RSD,192575.92,2021-06-16,active
+2224,224,4,foreign currency,RSD,206734.15,2024-11-15,active
+2225,225,3,savings,RSD,1247649.48,2023-09-28,active
+2226,226,5,savings,RSD,76451.70,2024-01-16,active
+2227,227,4,checking,RSD,308679.81,2025-09-10,active
+2228,228,9,savings,RSD,311804.30,2023-03-16,active
+2229,229,1,foreign currency,RSD,285430.72,2023-12-08,active
+2230,230,1,savings,RSD,804813.99,2024-07-30,active
+2231,231,4,savings,RSD,177823.11,2025-01-29,active
+2232,232,10,savings,RSD,843476.07,2026-01-22,active
+2233,233,6,foreign currency,RSD,45386.88,2021-06-19,active
+2234,234,9,savings,RSD,138815.31,2022-07-19,active
+2235,235,2,checking,RSD,274266.18,2024-05-13,active
+2236,236,10,foreign currency,RSD,460212.21,2023-01-22,active
+2237,237,4,foreign currency,RSD,395258.11,2025-06-04,active
+2238,238,4,foreign currency,RSD,318081.49,2023-06-10,active
+2239,239,1,savings,RSD,477452.11,2022-07-22,inactive
+2240,240,9,savings,RSD,707128.42,2025-01-16,active
+2241,241,2,savings,RSD,1269424.30,2018-11-05,active
+2242,242,7,checking,RSD,429402.24,2022-11-23,active
+2243,243,1,savings,RSD,1432136.63,2023-10-29,active
+2244,244,3,checking,RSD,172276.45,2022-08-06,active
+2245,245,9,foreign currency,RSD,492966.98,2024-08-08,active
+2246,246,4,checking,RSD,353279.02,2023-11-17,active
+2247,247,10,savings,RSD,1355141.48,2024-01-30,inactive
+2248,248,1,checking,RSD,147590.61,2024-11-19,active
+2249,249,3,foreign currency,RSD,284162.74,2023-10-11,active
+2250,250,1,savings,RSD,128826.31,2025-09-29,inactive
+2251,251,5,foreign currency,RSD,250002.20,2022-12-02,active
+2252,252,1,savings,RSD,761271.26,2026-05-25,active
+2253,253,3,checking,RSD,111658.96,2025-02-24,active
+2254,254,10,foreign currency,RSD,5692.75,2025-02-02,active
+2255,255,6,foreign currency,RSD,46678.38,2025-06-01,active
+2256,256,4,foreign currency,RSD,240930.98,2025-01-29,active
+2257,257,8,foreign currency,RSD,365063.14,2023-03-27,active
+2258,258,4,savings,RSD,810114.45,2026-01-18,active
+2259,259,4,savings,RSD,272157.23,2023-03-09,active
+2260,260,5,foreign currency,RSD,381193.66,2025-09-24,active
+2261,261,4,savings,RSD,568738.61,2023-07-09,active
+2262,262,1,checking,RSD,338143.84,2023-04-23,active
+2263,263,3,savings,RSD,1015986.55,2025-09-18,closed
+2264,264,4,savings,RSD,480290.91,2021-07-07,active
+2265,265,1,checking,RSD,183483.06,2026-01-12,active
+2266,266,6,foreign currency,RSD,88962.23,2023-12-15,active
+2267,267,4,checking,RSD,242879.22,2025-07-13,active
+2268,268,7,savings,RSD,727158.51,2025-02-04,active
+2269,269,8,savings,RSD,422352.21,2021-12-09,active
+2270,270,1,savings,RSD,1270087.56,2024-07-13,active
+2271,271,6,savings,RSD,1004929.20,2022-09-01,active
+2272,272,7,foreign currency,RSD,66244.73,2025-05-28,active
+2273,273,9,foreign currency,RSD,353481.75,2023-07-10,active
+2274,274,4,checking,RSD,209855.33,2023-04-22,active
+2275,275,4,checking,RSD,442528.68,2023-06-18,active
+2276,276,9,savings,RSD,866427.33,2022-05-12,active
+2277,277,2,savings,RSD,794229.96,2025-04-15,active
+2278,278,9,savings,RSD,1066931.70,2026-04-09,active
+2279,279,9,checking,RSD,275200.35,2023-09-05,active
+2280,280,4,savings,RSD,1157846.37,2026-03-30,active
+2281,281,3,foreign currency,RSD,398089.06,2026-06-04,active
+2282,282,1,foreign currency,RSD,195260.40,2025-05-03,active
+2283,283,5,foreign currency,RSD,429815.73,2018-11-28,active
+2284,284,8,foreign currency,RSD,254652.41,2023-06-05,active
+2285,285,7,savings,RSD,1221831.50,2022-12-11,active
+2286,286,6,checking,RSD,466660.18,2023-02-20,active
+2287,287,8,foreign currency,RSD,291495.19,2023-06-28,inactive
+2288,288,3,checking,RSD,213088.52,2024-08-16,active
+2289,289,6,checking,RSD,375798.55,2023-06-08,active
+2290,290,8,savings,RSD,59745.70,2025-06-07,active
+2291,291,6,savings,RSD,1167852.77,2021-04-09,active
+2292,292,8,foreign currency,RSD,185418.06,2026-01-26,active
+2293,293,5,foreign currency,RSD,214808.10,2025-04-28,active
+2294,294,4,savings,RSD,771928.71,2026-01-12,active
+2295,295,4,checking,RSD,274374.11,2023-07-03,active
+2296,296,2,savings,RSD,1170232.22,2023-07-24,active
+2297,297,7,foreign currency,RSD,485971.60,2024-06-23,active
+2298,298,7,foreign currency,RSD,78638.47,2026-04-13,active
+2299,299,3,checking,RSD,449751.24,2022-09-14,active
+2300,300,5,foreign currency,RSD,49379.56,2026-04-02,active
+2301,301,10,savings,RSD,752712.82,2023-06-18,active
+2302,302,7,foreign currency,RSD,472987.37,2023-02-07,active
+2303,303,5,checking,RSD,206609.50,2020-11-17,active
+2304,304,2,foreign currency,RSD,249947.38,2025-06-11,active
+2305,305,5,savings,RSD,1030176.34,2024-08-16,active
+2306,306,7,checking,RSD,456244.74,2023-01-30,active
+2307,307,8,savings,RSD,189662.49,2025-12-30,active
+2308,308,6,foreign currency,RSD,493140.67,2021-11-05,active
+2309,309,9,foreign currency,RSD,250541.72,2020-01-24,active
+2310,310,2,savings,RSD,1021481.83,2022-03-15,active
+2311,311,7,savings,RSD,1392450.18,2024-11-20,active
+2312,312,9,foreign currency,RSD,96857.53,2024-02-25,active
+2313,313,9,checking,RSD,186091.92,2021-02-22,closed
+2314,314,4,savings,RSD,686626.56,2024-10-29,active
+2315,315,7,foreign currency,RSD,62344.47,2024-11-12,active
+2316,316,2,foreign currency,RSD,157909.09,2022-10-01,active
+2317,317,2,foreign currency,RSD,48899.04,2025-12-13,inactive
+2318,318,5,foreign currency,RSD,150423.40,2023-04-10,inactive
+2319,319,4,checking,RSD,8702.29,2021-09-27,active
+2320,320,2,foreign currency,RSD,223507.75,2024-06-04,active
+2321,321,9,savings,RSD,84281.55,2026-03-19,inactive
+2322,322,4,foreign currency,RSD,276171.78,2023-08-18,active
+2323,323,5,savings,RSD,375397.04,2025-09-23,active
+2324,324,2,foreign currency,RSD,491358.26,2022-05-22,active
+2325,325,4,checking,RSD,343768.95,2024-01-29,active
+2326,326,9,savings,RSD,127387.97,2025-07-22,active
+2327,327,8,savings,RSD,497979.48,2026-02-21,active
+2328,328,2,checking,RSD,283266.53,2021-06-21,active
+2329,329,4,foreign currency,RSD,233384.26,2024-04-04,active
+2330,330,3,savings,RSD,1043673.84,2026-03-13,active
+2331,331,4,foreign currency,RSD,346651.82,2023-10-31,active
+2332,332,4,checking,RSD,471515.73,2023-09-09,active
+2333,333,9,checking,RSD,319759.71,2022-11-03,active
+2334,334,1,savings,RSD,789503.72,2023-08-27,active
+2335,335,9,savings,RSD,219210.17,2024-11-10,active
+2336,336,4,checking,RSD,58945.14,2026-02-11,active
+2337,337,2,foreign currency,RSD,242958.23,2023-08-24,active
+2338,338,3,foreign currency,RSD,366180.21,2022-01-20,active
+2339,339,3,foreign currency,RSD,245953.45,2022-05-28,active
+2340,340,5,savings,RSD,1077356.48,2023-11-06,active
+2341,341,3,savings,RSD,216864.67,2020-07-27,inactive
+2342,342,5,foreign currency,RSD,408015.35,2025-02-24,inactive
+2343,343,6,savings,RSD,953766.68,2019-07-31,active
+2344,344,6,savings,RSD,780108.78,2025-01-17,active
+2345,345,7,checking,RSD,266603.95,2022-04-16,active
+2346,346,2,foreign currency,RSD,160627.04,2025-08-19,active
+2347,347,2,foreign currency,RSD,14907.95,2024-08-02,active
+2348,348,6,foreign currency,RSD,331334.85,2026-01-13,active
+2349,349,3,foreign currency,RSD,52365.25,2022-08-25,active
+2350,350,7,savings,RSD,861541.49,2021-12-02,active
+2351,351,10,checking,RSD,244805.55,2022-11-08,active
+2352,352,6,foreign currency,RSD,368610.38,2022-07-29,active
+2353,353,2,savings,RSD,1085030.60,2025-11-15,active
+2354,354,3,checking,RSD,297641.00,2023-05-07,active
+2355,355,10,checking,RSD,464607.95,2018-07-21,active
+2356,356,10,savings,RSD,953099.04,2019-05-05,active
+2357,357,1,checking,RSD,102041.51,2024-07-26,active
+2358,358,1,foreign currency,RSD,87670.61,2026-01-14,active
+2359,359,7,checking,RSD,175497.22,2020-08-14,inactive
+2360,360,7,checking,RSD,492166.93,2024-12-09,active
+2361,361,8,foreign currency,RSD,45926.02,2020-06-19,active
+2362,362,3,foreign currency,RSD,191777.03,2026-07-14,active
+2363,363,9,checking,RSD,122342.03,2025-06-11,active
+2364,364,2,savings,RSD,1325763.72,2022-12-06,active
+2365,365,10,savings,RSD,602081.27,2024-10-21,inactive
+2366,366,9,checking,RSD,179167.98,2025-08-13,inactive
+2367,367,7,savings,RSD,999595.35,2022-10-04,active
+2368,368,8,checking,RSD,413004.24,2018-06-10,active
+2369,369,4,foreign currency,RSD,455147.19,2025-03-28,active
+2370,370,7,checking,RSD,439802.48,2025-08-21,active
+2371,371,5,foreign currency,RSD,429640.45,2025-04-28,active
+2372,372,3,savings,RSD,113361.79,2023-01-06,active
+2373,373,6,savings,RSD,679212.58,2023-08-10,active
+2374,374,2,foreign currency,RSD,402119.30,2025-03-16,active
+2375,375,2,foreign currency,RSD,48686.75,2023-02-10,active
+2376,376,7,checking,RSD,96317.68,2019-09-04,active
+2377,377,5,checking,RSD,329931.51,2023-04-25,active
+2378,378,1,savings,RSD,961160.57,2025-03-17,active
+2379,379,10,savings,RSD,264477.73,2022-01-06,active
+2380,380,4,foreign currency,RSD,322778.94,2022-10-08,active
+2381,381,2,foreign currency,RSD,328903.39,2025-05-09,active
+2382,382,1,checking,RSD,59624.46,2019-05-04,active
+2383,383,8,checking,RSD,330082.79,2023-03-12,inactive
+2384,384,10,checking,RSD,371804.37,2025-12-27,active
+2385,385,3,checking,RSD,407075.08,2025-02-17,active
+2386,386,3,savings,RSD,901081.56,2022-09-19,active
+2387,387,7,foreign currency,RSD,90446.54,2024-04-16,active
+2388,388,1,foreign currency,RSD,424607.64,2024-12-18,active
+2389,389,10,savings,RSD,821583.73,2026-05-05,active
+2390,390,2,foreign currency,RSD,466526.15,2024-10-26,active
+2391,391,2,savings,RSD,1487624.52,2024-08-29,active
+2392,392,3,savings,RSD,672981.18,2024-12-07,active
+2393,393,9,checking,RSD,254724.05,2023-11-01,active
+2394,394,5,foreign currency,RSD,155241.78,2025-05-30,inactive
+2395,395,1,savings,RSD,215986.72,2024-03-04,active
+2396,396,4,savings,RSD,119368.81,2024-05-09,active
+2397,397,10,checking,RSD,280165.53,2024-03-16,active
+2398,398,3,foreign currency,RSD,36444.44,2021-07-06,active
+2399,399,6,foreign currency,RSD,291406.98,2024-11-29,active
+2400,400,6,foreign currency,RSD,252990.82,2024-04-03,active
+2401,401,7,savings,RSD,399677.68,2025-01-02,active
+2402,402,3,foreign currency,RSD,493443.02,2021-04-24,active
+2403,403,4,savings,RSD,1195670.91,2024-04-06,active
+2404,404,2,foreign currency,RSD,448311.18,2023-09-20,inactive
+2405,405,9,savings,RSD,1285017.60,2020-06-04,active
+2406,406,6,foreign currency,RSD,357659.96,2024-12-06,active
+2407,407,5,checking,RSD,204142.51,2023-11-29,active
+2408,408,2,checking,RSD,278542.79,2023-11-09,active
+2409,409,9,foreign currency,RSD,254671.49,2026-01-22,active
+2410,410,5,savings,RSD,122835.82,2023-08-23,active
+2411,411,2,savings,RSD,470488.00,2025-12-15,active
+2412,412,7,checking,RSD,481135.21,2023-04-12,active
+2413,413,1,foreign currency,RSD,39952.30,2026-03-08,active
+2414,414,9,savings,RSD,650008.48,2026-04-08,active
+2415,415,6,checking,RSD,311905.45,2020-12-10,inactive
+2416,416,6,foreign currency,RSD,420102.74,2025-06-14,active
+2417,417,10,checking,RSD,311648.82,2025-03-17,active
+2418,418,8,savings,RSD,502836.05,2025-03-13,active
+2419,419,5,checking,RSD,231029.46,2020-08-12,active
+2420,420,10,savings,RSD,1327542.57,2025-02-10,active
+2421,421,5,savings,RSD,619944.83,2025-03-11,active
+2422,422,6,savings,RSD,595640.65,2025-06-13,active
+2423,423,9,checking,RSD,41593.78,2020-11-12,active
+2424,424,6,foreign currency,RSD,168773.07,2023-04-20,active
+2425,425,7,foreign currency,RSD,470574.45,2020-09-04,inactive
+2426,426,4,foreign currency,RSD,70559.59,2026-03-05,active
+2427,427,8,savings,RSD,848641.05,2025-04-08,active
+2428,428,1,savings,RSD,1004506.74,2025-10-26,active
+2429,429,1,foreign currency,RSD,372103.45,2026-02-16,active
+2430,430,10,checking,RSD,478608.52,2023-06-28,active
+2431,431,5,foreign currency,RSD,434307.23,2025-09-18,active
+2432,432,1,checking,RSD,357595.84,2026-05-17,active
+2433,433,4,checking,RSD,10518.12,2021-05-07,active
+2434,434,7,foreign currency,RSD,163143.09,2025-05-07,active
+2435,435,10,checking,RSD,385478.57,2025-07-02,active
+2436,436,6,foreign currency,RSD,153140.15,2023-03-25,active
+2437,437,1,checking,RSD,463537.77,2025-09-22,active
+2438,438,3,savings,RSD,1455638.26,2025-07-12,active
+2439,439,9,savings,RSD,758914.87,2026-06-24,active
+2440,440,9,foreign currency,RSD,446517.13,2022-07-24,active
+2441,441,9,checking,RSD,171980.71,2020-07-05,active
+2442,442,5,savings,RSD,125537.62,2025-03-04,active
+2443,443,10,savings,RSD,1165089.16,2022-07-19,active
+2444,444,8,foreign currency,RSD,94823.51,2021-06-29,active
+2445,445,9,checking,RSD,364536.49,2025-12-03,active
+2446,446,4,savings,RSD,1134527.37,2019-05-28,active
+2447,447,1,checking,RSD,466751.85,2020-11-10,inactive
+2448,448,2,savings,RSD,1086383.90,2023-08-26,active
+2449,449,5,checking,RSD,172486.73,2026-07-09,inactive
+2450,450,8,foreign currency,RSD,358071.63,2024-02-18,active
+2451,451,7,savings,RSD,1474798.28,2024-04-06,active
+2452,452,7,savings,RSD,619367.61,2022-02-11,inactive
+2453,453,5,foreign currency,RSD,374522.80,2021-11-06,active
+2454,454,7,savings,RSD,107499.64,2024-09-26,active
+2455,455,2,foreign currency,RSD,329635.95,2024-08-26,active
+2456,456,10,savings,RSD,1446984.75,2021-02-16,closed
+2457,457,9,checking,RSD,243488.50,2025-07-18,active
+2458,458,10,foreign currency,RSD,271454.65,2020-12-01,active
+2459,459,3,savings,RSD,664247.34,2022-04-27,active
+2460,460,5,foreign currency,RSD,178151.42,2023-03-27,active
+2461,461,2,foreign currency,RSD,283442.36,2020-02-02,active
+2462,462,3,foreign currency,RSD,162828.47,2024-11-25,active
+2463,463,1,savings,RSD,916720.57,2021-05-16,active
+2464,464,2,savings,RSD,1251873.13,2022-02-02,active
+2465,465,3,checking,RSD,432899.75,2023-08-03,active
+2466,466,5,savings,RSD,292876.69,2024-08-29,active
+2467,467,4,checking,RSD,169503.87,2021-12-07,active
+2468,468,2,savings,RSD,598431.51,2024-08-14,active
+2469,469,6,checking,RSD,41692.97,2026-06-19,active
+2470,470,4,checking,RSD,378737.58,2026-02-14,active
+2471,471,5,foreign currency,RSD,243786.66,2024-12-09,active
+2472,472,9,foreign currency,RSD,449521.34,2023-03-23,active
+2473,473,3,savings,RSD,1063155.34,2024-06-28,active
+2474,474,5,foreign currency,RSD,409304.22,2019-04-07,active
+2475,475,2,foreign currency,RSD,350441.85,2018-12-09,active
+2476,476,1,foreign currency,RSD,387966.04,2026-05-07,active
+2477,477,1,checking,RSD,229744.73,2020-07-23,active
+2478,478,8,savings,RSD,1003121.87,2026-03-03,active
+2479,479,7,foreign currency,RSD,132325.44,2026-05-10,active
+2480,480,10,checking,RSD,96308.75,2026-03-07,inactive
+2481,481,4,foreign currency,RSD,331337.31,2026-07-21,active
+2482,482,1,checking,RSD,239577.31,2024-03-20,active
+2483,483,9,savings,RSD,1175714.35,2026-04-16,active
+2484,484,9,checking,RSD,77646.24,2024-06-24,active
+2485,485,10,checking,RSD,71786.05,2024-07-08,active
+2486,486,9,foreign currency,RSD,478279.06,2025-07-12,active
+2487,487,10,savings,RSD,528718.08,2026-01-20,active
+2488,488,10,checking,RSD,169015.64,2019-12-14,active
+2489,489,10,savings,RSD,214134.47,2024-08-02,active
+2490,490,3,foreign currency,RSD,429293.61,2024-09-27,active
+2491,491,10,checking,RSD,91331.43,2024-07-14,inactive
+2492,492,5,savings,RSD,373870.50,2025-07-01,active
+2493,493,4,foreign currency,RSD,308887.75,2023-04-16,active
+2494,494,7,savings,RSD,484647.79,2021-12-03,active
+2495,495,4,foreign currency,RSD,244725.09,2024-09-05,active
+2496,496,4,foreign currency,RSD,190000.85,2024-11-21,inactive
+2497,497,4,savings,RSD,204348.95,2023-07-04,active
+2498,498,5,savings,RSD,621255.52,2020-11-16,active
+2499,499,9,foreign currency,RSD,390859.38,2024-06-05,active
+2500,500,6,savings,RSD,1232190.96,2021-07-29,active
